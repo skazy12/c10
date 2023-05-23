@@ -1,0 +1,3429 @@
+Capítulo 10
+
+388
+Objetivos de aprendizaje
+%FTQVÊTEFMFFSFTUFDBQÎUVMPVTUFE
+EFCFTFSDBQB[EF
+ $POPDFSMBOBUVSBMF[BEFMBDVMUVSB
+PSHBOJ[BDJPOBMZTVTNBOJGFTUB
+ciones.
+ %FTDSJCJSMPTDVBUSPUJQPTEFDVMUV
+SBPSHBOJ[BDJPOBM
+ &YQMJDBSMBSFMBDJÓOFOUSFMBDVMUVSB
+ZFMSFOEJNJFOUP
+ %FTDSJCJSMBTGVFOUFTEFWBMPSFT
+ZQSJODJQJPTÊUJDPT
+ %FGJOJSMBSFTQPOTBCJMJEBETPDJBM
+DPSQPSBUJWB
+ &YQMJDBSDÓNPMPTHFSFOUFTEBO
+GPSNBBMBDVMUVSBPSHBOJ[BDJPOBM
+ZMPTWBMPSFTÊUJDPT
+
+Capítulo 10: Cultura organizacional y valores éticos 389
+Antes de leer este capítulo, por favor, compruebe si está de acuerdo o en
+desacuerdo con cada una de las afirmaciones siguientes:
+
+Si usted entra a las oficinas centrales de Patagonia, es probable que vea algunas personas
+usando sandalias y pantalón corto. ¿Y por qué no? Tal vez más tarde vayan a surfear.
+El éxito del vendedor de ropa informal y equipo para el aire libre está guiado por los
+valores de creatividad, colaboración y preocupación por el ambiente. Los empleados que
+son elegibles se pueden tomar dos meses libres, percibiendo su sueldo completo, para
+
+trabajar con grupos ambientalistas. La sensación en el interior de las oficinas corporati-
+vas es relajada y, sin embargo, vibrante; las personas trabajan arduamente, pero también
+
+se divierten. Comparemos eso con las oficinas corporativas de Exxon Mobil, donde
+la mayoría de los empleados viste traje de negocios convencional y el ambiente está
+matizado de competitividad, un enfoque analítico y riguroso de cuidado por el negocio.
+La explosión de la plataforma petrolera BP Deepwater Horizon en el Golfo de México en
+2010 fue el epítome del desastroso derrame de petróleo en 1989 del buque Exxon Valdez
+en la costa de Prince William Sound, Alaska. A raíz de esta catástrofe, los gerentes de
+Exxon analizaron su enfoque de seguridad y crearon un sistema de normas y protocolos
+para las operaciones de la compañía para no errar por el lado de la precaución. Ese
+enfoque prudente, analítico, lo sigue toda la compañía y ha ayudado a Exxon a destacar
+a sus miembros por su obsesiva atención en la seguridad y el alto rendimiento. “No están
+en el negocio de la diversión”, comentó un analista de la industria petrolera. “Están en el
+negocio de ganar utilidades.” Nada de surfing para esos hombres (o mujeres). Como
+expresó un inversionista con admiración: “Nunca se toman un día libre”.1
+Patagonia y Exxon representan dos culturas corporativas muy distintas. Sin embargo,
+ambas tienen éxito y cuentan con empleados que disfrutan su trabajo y a quienes en
+general les agrada la forma en que se hacen las cosas en su organización. Todas las
+organizaciones, como Patagonia y Exxon, tienen una serie de valores que caracteriza
+la forma en que se comportan las personas y en que la organización lleva a cabo sus
+negocios cotidianos. Uno de los trabajos más importantes que desempeñan los líderes
+organizacionales es inculcar la clase de valores necesarios para que la empresa prospere,
+y apoyar esos valores.
+Las culturas sólidas pueden tener un profundo impacto sobre una empresa, lo que
+puede ser positivo o negativo para ella. En J. M. Smucker & Company, la primera
+empresa manufacturera que ha ganado el primer lugar en la lista de la revista Fortune
+
+de “Las 100 mejores empresas para trabajar en ellas”, los poderosos valores de coopera-
+ción, preocupación por los empleados y los clientes y una actitud de “todos para uno y
+
+uno para todos”, permiten que la empresa cumpla firmemente con las metas de produc-
+tividad, calidad y servicio al cliente en el desafiante entorno de la industria alimentaria.2
+
+Sin embargo, las normas culturales negativas pueden dañar a una empresa en la misma
+
+389
+
+1
+
+Preguntas de la
+administración
+por diseño
+
+La única y mejor forma de asegurarse de que una organización se mantenga
+en un terreno ético sólido es tener un enérgico código de ética y cerciorárse
+de que todos los empleados estén familiarizados con sus lineamientos.
+DE ACUERDO EN DESACUERDO
+Los altos directivos por lo general, deben enfocar más su energía en la
+estrategia y la estructura que en la cultura corporativa.
+DE ACUERDO EN DESACUERDO
+2 Ser ética y socialmente responsable no sólo es lo correcto que debe hacer
+una empresa: es un aspecto crítico para el éxito del negocio.
+DE ACUERDO EN DESACUERDO
+3
+
+390 Parte 5: Administración de procesos dinámicos
+forma poderosa en que las positivas la pueden reforzar. Considere la ahora a la extinta
+Bear Stearns, que tenía una cultura corporativa fuerte, altamente competitiva, que llevó
+todo a los límites en la búsqueda de la riqueza. Siempre y cuando un empleado ganara
+dinero para la empresa, los directivos adoptaban un enfoque de no intervención, que era
+cada vez más arriesgado y permitía, a veces, un comportamiento poco ético.3
+Un concepto relacionado con la influencia de las normas y los valores sobre la forma
+en que las personas trabajan juntas y se tratan unas a otras y a los clientes se llama
+capital social. El capital social se refiere a la calidad de las interacciones entre las personas
+y si comparten una perspectiva común. Por ejemplo, en las organizaciones con un alto
+grado de capital social, las relaciones se basan en la confianza, la mutua comprensión y
+las normas y valores compartidos que permiten que las personas cooperen y coordinen
+sus actividades con el fin de alcanzar sus metas.4
+
+Una organización puede tener un nivel
+alto o bajo de capital social. Una forma de pensar en el capital social es como buena
+voluntad. Cuando las relaciones tanto dentro de la organización como con los clientes,
+proveedores y socios se basan en la honestidad, la confianza y el respeto, existe un espíritu
+de buena voluntad y las personas cooperan de buen grado con el fin de lograr beneficios
+mutuos. Un alto nivel de capital social permite interacciones e intercambios sin fricciones,
+que ayudan a facilitar un funcionamiento organizacional fluido. Las relaciones basadas
+en una competencia ardua, el interés propio y los subterfugios pueden ser devastadores
+para una empresa. El capital social se relaciona tanto con la cultura como con la ética
+corporativa, el tema de este capítulo.
+Propósito de este capítulo
+
+Este capítulo explora las ideas acerca de la cultura corporativa y los valores éticos asocia-
+dos y la forma como las organizaciones influyen en ellos. La primera sección describe
+
+la naturaleza de la cultura corporativa, sus orígenes y propósito, y la manera de identifi
+carla e interpretar la cultura estudiando los ritos y ceremonias de la empresa, sus historias
+y mitos, sus símbolos, las estructuras de la corporación, las relaciones de poder y los
+sistemas de control. Después se estudia la forma como la cultura refuerza la estrategia
+y el diseño estructural que necesita la organización para ser efectiva en su entorno y se
+analiza el rol tan importante de la cultura en el aprendizaje organizacional y el alto nivel
+de desempeño. Después, el capítulo estudia los valores éticos y la responsabilidad social
+corporativa. Consideramos la forma como los gerentes implementan las estructuras y
+los sistemas que influyen en un comportamiento ético y socialmente responsable. En el
+capítulo también se analiza la forma en que los líderes modelan la cultura y los valores
+éticos en una dirección apropiada para los resultados de la estrategia y el desempeño. El
+capítulo termina con una breve perspectiva de los complejos aspectos culturales y éticos a
+los que se enfrentan los gerentes en un entorno internacional.
+
+CULTURA ORGANIZACIONAL
+La popularidad del tema de la cultura corporativa plantea varias preguntas. ¿Podemos
+identificar las culturas? ¿Es posible equiparar la cultura con la estrategia? ¿Cómo se
+pueden administrar o transformar las culturas? La mejor forma de empezar es definir la
+cultura y explicar cómo se refleja en las organizaciones.
+Qué es la cultura
+La cultura es el conjunto de valores, normas, creencias orientadoras y entendimientos que
+sirven de guía y que comparten los miembros de una organización y se enseñan a los nuevos
+miembros como la manera correcta de pensar, sentir y comportarse.5
+
+Representa la parte
+
+Capítulo 10: Cultura organizacional y valores éticos 391
+no escrita de los sentimientos de la organización. Cultura representa a la organización
+informal, mientras que los temas tratados en los capítulos anteriores, como la estructura,
+el tamaño y la estrategia, representan la organización formal. Cada organización tiene
+dos lados en el trabajo: las estructuras formales y los sistemas y los valores informales,
+las normas y los supuestos de la cultura corporativa.6
+
+Todos participan en la cultura,
+pero ésta por lo general pasa inadvertida. Los gerentes se enfrentan cara a cara al poder
+de la cultura sólo cuando tratan de implementar nuevas estrategias o programas que van
+contra las normas y los valores culturales básicos.
+La cultura organizacional existe en dos niveles, como se muestra en la figura 10.1. En
+la superficie son visibles los artefactos y las conductas observables, es decir, la manera de
+vestir y actuar de las personas, el tipo de sistemas de control y de estructuras de poder
+que utiliza la empresa y los símbolos, las historias y las ceremonias que comparten los
+miembros de la organización. Sin embargo, los elementos visibles de la cultura reflejan
+los valores más profundos en la mente de los integrantes de la empresa. Esos valores,
+supuestos, creencias y procesos de pensamiento implícitos operan inconscientemente
+para definir la verdadera cultura.7
+
+Por ejemplo, Steelcase construyó un nuevo centro
+de desarrollo corporativo en forma de pirámide que tiene “estaciones de pensamiento”
+dispersas y abiertas, con tableros blancos y otras características que inspiran ideas. Hay un
+atrio abierto desde la planta baja hasta el techo, con un gigantesco péndulo que oscila. El
+nuevo edificio es un símbolo visible; los valores implícitos son un énfasis en la apertura, la
+colaboración, el trabajo en equipo, la innovación y el cambio constante.8
+
+Los atributos de
+
+la cultura se muestran en muchas formas, pero a menudo evolucionan hacia una serie de ac-
+tividades que siguen un patrón y que se llevan a cabo mediante interacciones sociales.9
+
+Esos patrones se pueden utilizar para interpretar la cultura. FIGURA 10.1
+/JWFMFTEFMBDVMUVSB
+DPSQPSBUJWB
+
+Valores subyacentes,
+supuestos, creencias,
+actitudes y
+sentimientos implícitos.
+
+Símbolos, ceremonias,
+historias, lemas, conductas,
+manera de vestir, escenarios
+físicos observables.
+
+392 Parte 5: Administración de procesos dinámicos
+
+Surgimiento y propósito de la cultura
+La cultura proporciona a las personas un sentido de identidad organizacional y genera
+en ellas un compromiso con las creencias y los valores que son más grandes que ellas
+mismas.10 Aun cuando las ideas que se convierten en parte de una cultura pueden provenir
+de cualquier parte dentro de la organización, la cultura de una organización se inicia con
+un fundador o un primer líder que articulan e implementan ideas y valores particulares
+como una visión, una filosofía o una estrategia de negocios.
+Cuando esas ideas y valores conducen al éxito, se institucionalizan y surge una cultura
+organizacional que refleja la visión y la estrategia del fundador o del líder. Por ejemplo, la
+cultura de In-N-Out Burger, una cadena de comida rápida con 232 tiendas en el oeste de
+Estados Unidos, refleja los valores y la filosofía de los fundadores Harry y Esther Snyder.
+Los Snyders crearon una cultura corporativa basada en la idea de que tener un negocio
+exitoso depende de una cosa: el trato justo a las personas. In-N-Out se fundó en 1948,
+pero los valores de la calidad, el servicio y el cuidado de los empleados permanecen en el
+centro de la cultura de la empresa, una cultura que ha inspirado intensa lealtad entre los
+empleados y los clientes.11
+Las culturas sirven a dos funciones críticas en las organizaciones: 1) integrar a los
+
+miembros de manera que sepan cómo relacionarse unos con otros y 2) ayudar a la or ga-
+nización a adaptarse al entorno externo. La integración interna significa que los miembros
+
+desarrollan una identidad colectiva y saben cómo trabajar juntos con eficacia. La cultura
+es la que guía las relaciones de trabajo cotidianas y determina la forma en que las personas
+se comunican dentro de la organización, qué comportamiento es aceptable y cuál no y
+cómo se asignan el poder y la posición. La adaptación externa se refiere a la forma como
+la organización alcanza sus metas y trata a las personas ajenas a la empresa. La cultura
+ayuda a guiar las actividades cotidianas de los trabajadores, con el fin de que cumplan con
+ciertas metas. Puede ayudar a las organizaciones a responder con rapidez a las necesidades
+del cliente o a las medidas de un competidor.
+La cultura de la organización también guía la toma de decisiones de los empleados en
+ausencia de reglas o políticas escritas.12 Por consiguiente, ambas funciones de la cultura
+están relacionadas con la creación del capital social de la organización, al forjar relaciones
+ya sean positivas o negativas tanto dentro de la organización como con los externos.
+Interpretación de la cultura
+Para identificar e interpretar la cultura se requiere que las personas hagan inferencias
+basadas en artefactos observables. Los artefactos se pueden estudiar, pero es difícil
+descifrarlos con precisión. Una ceremonia de entrega de premios en una empresa puede
+tener un significado diferente del que tiene en otra. Para comprender qué sucede en realidad
+en una organización, se requiere un trabajo de detective y quizá cierta experiencia como
+interno. La figura 10.2 muestra algunos aspectos observables importantes de la cultura
+organizacional.13 Entre ellos se incluyen ritos y ceremonias, historias y mitos, símbolos,
+estructuras organizacionales, relaciones de poder y sistemas de control.14
+ritos y ceremonias. Los valores culturales se pueden identificar en los ritos y ceremonias,
+las actividades elaboradas y planeadas que constituyen un evento especial y que a menudo
+se llevan a cabo en beneficio de un auditorio. Los gerentes celebran ritos y ceremonias
+para proporcionar ejemplos drásticos de lo que valora una empresa. Esas son ocasiones
+especiales que refuerzan valores específicos, crean un vínculo entre las personas para
+compartir una comprensión importante y ungen a los héroes y heroínas celebrados que
+simbolizan importantes creencias y actividades.15
+
+Capítulo 10: Cultura organizacional y valores éticos 393
+
+FIGURA 10.2
+"TQFDUPTPCTFSWBCMFTEF
+MBDVMUVSBPSHBOJ[BDJPOBM
+
+'VFOUFLong Range Planning. Online QPS+PIOTPO$PQZSJHIUQPS&MTFWJFS4DJFODF5FDIOPMPHZ+PVSOBMT3FQSPEVDJEP
+DPOBVUPSJ[BDJÓOEF&MTFWJFS4DJFODF5FDIOPMPHZ+PVSOBMTFOFMGPSNBUP0UIFS#PPLWJB$PQZSJHIU$MFBSBODF$FOUFS
+
+Historias
+y
+mitos
+
+Relaciones
+de poder
+
+Estructuras de
+la organización
+Símbolos
+
+Ritos y
+ceremonias
+
+Sistemas
+de control
+Cultura
+organizacional
+
+Por ejemplo, un tipo de rito que aparece en las organizaciones es un rito de transición,
+que facilita la adaptación de los empleados a nuevos roles sociales. Organizaciones tan
+diversas como órdenes religiosas, hermandades y cofradías, empresas y la milicia, utilizan
+los ritos para iniciar nuevos miembros y comunicar valores importantes. Otro tipo que
+
+se utiliza con frecuencia es el rito de integración, que crea lazos comunes y buenos sen-
+timientos entre los empleados, e incrementa el compromiso con la organización. Con-
+sidere los siguientes ejemplos:
+
+r 6OSJUPEFQBTPB(FOUMF(JBOU
+
+FO4PNFSWJMMF
+
+.BTTBDIVTFUUT
+
+DPNQBÒÎBEFNVEBO[BT
+que ha ganado nueve premios Best of Boston de la revista Boston, es el “run estadio”. El
+CEO Larry O’Toole decidió que las nuevas contrataciones corrieran en las gradas del
+estadio de la Universidad de Harvard como una manera de enfatizar que las personas
+en la empresa trabajan duro, se desafían a sí mismas y llegan hasta el final en lugar de
+abandonarse si las cosas se ponen difíciles. Después de la carrera, O’Toole ofrece un
+desayuno abundante y da un discurso de orientación. “Ustedes no son Gentle Giant
+hasta que hayan terminado la carrera”, dijo el empleado Kyle Green.16
+r 4JFNQSFRVFVOFKFDVUJWPEF8BM.BSUWJTJUBVOBEFMBTUJFOEBT
+
+HVÎBBMPTFNQMFBEPTFO
+la ovación de WalMart: “¡Denme una W! ¡Denme una A! ¡Denme una L! (Todos bailan
+una versión del twist.) ¡Denme una M! ¡Denme una A! ¡Denme una R! ¡Denme una T!
+¿Qué dice? ¡WalMart! ¿Quién es el número 1? ¡EL CLIENTE!” Esa ovación refuerza
+los lazos entre los empleados así como su compromiso con las metas comunes.17 Es un
+rito de integración.
+
+394 Parte 5: Administración de procesos dinámicos
+Historias y mitos. Las historias son narraciones basadas en acontecimientos reales que
+con frecuencia se comparten entre los empleados y se cuentan a los nuevos trabajadores
+para informarlos acerca de una organización. Muchas historias son acerca de héroes de la
+empresa que sirven como modelos o ideales para cumplir con las normas y los valores de
+la firma. Se considera que algunas historias son leyendas debido a que los acontecimientos
+son históricos y tal vez se embellecieron con detalles ficticios. Otras historias son mitos,
+que son congruentes con los valores y las creencias de la organización, pero que no están
+respaldados por hechos.18 Las historias mantienen con vida los principales valores de la
+organización y proporcionan una comprensión compartida entre todos los empleados.
+Los siguientes son ejemplos de la forma en que las historias modelan la cultura:
+r &OMPTIPUFMFT3JU[$BSMUPOTFDVFOUBVOBIJTUPSJBBDFSDBEFVOBTJTUFOUFRVFUSBCBKBCB
+en la playa y que amontonaba las sillas para guardarlas durante la noche, cuando un
+huésped le preguntó si podría dejar afuera dos sillas. El huésped quería regresar a la
+playa por la noche y proponerle matrimonio a su novia. Aun cuando el asistente ya
+había concluido su turno, no sólo dejó afuera las sillas, sino que se quedó hasta más
+tarde, vistió de esmoquin y escoltó a la pareja hasta sus sillas, colocadas frente a una
+mesa donde había flores, champaña y velas encendidas. La historia está firmemente
+arraigada en el folclor de RitzCarlton y simboliza el valor de ir más allá del llamado
+del deber para complacer a los huéspedes.19
+r -PTFNQMFBEPTFO*#.BNFOVEPFTDVDIBOVOBIJTUPSJBBDFSDBEFMBHVBSEJBEFTFHV
+ridad que desafió al presidente del consejo de IBM. Aun cuando sabía quién era, la
+guardia insistió en que el presidente del consejo no podía entrar a un área particular
+
+porque no llevaba la autorización de seguridad apropiada. En vez de que la reprendie-
+ran o la despidieran, la elogiaron por su diligencia y su compromiso por preservar la
+
+seguridad de los edificios de IBM.20 Al narrar esta historia, los empleados hacen hin-
+capié tanto en la importancia de seguir las reglas como en las contribuciones críticas
+
+de todos los empleados, desde el nivel superior hasta el inferior de la organización.
+símbolos. Otra herramienta para interpretar la cultura es el símbolo, es decir, algo que
+representa otra cosa. En cierto sentido, las ceremonias, las historias y los ritos son todos
+símbolos, debido a que representan valores más profundos. Otro símbolo es un artefacto
+físico de la organización. Los símbolos físicos son poderosos porque enfocan la atención
+en un aspecto específico. Los siguientes son ejemplos de ellos:
+r &OMBTPGJDJOBTDPSQPSBUJWBTEF.PUIFS
+
+VOBQFRVFÒBBHFODJBEFQVCMJDJEBEVCJDBEBFO
+Londres, famosa por su poderosa cultura y sus anuncios inusitados, no hay oficinas
+privadas. De hecho, con excepción de los baños, no hay puertas en todo el lugar. Este
+diseño de las oficinas corporativas simboliza y refuerza los valores culturales de la
+comunicación abierta, la colaboración, la creatividad y la igualdad.21
+r $VBOEPMPTFNQMFBEPTEF'PPU-FWFMFST
+
+VOGBCSJDBOUFEFQSPEVDUPTRVJSPQSÃDUJDPT
+
+vieron el cartel de “Rudy in Progress” pegado en la puerta de la sala de conferencias,
+supieron que había un grupo de nuevos empleados viendo un DVD de Rudy, el drama
+inspirador de fútbol americano de 1993 sobre el torpe pero determinado jugador del
+Notre Dame Rudy Ruettiger, quien finalmente salió a la cancha en los últimos minutos
+de un partido contra Georgia Tech y despidió al mariscal de campo. La película es
+un símbolo del alto valor que la empresa pone sobre la determinación, la pasión, el
+compromiso y la tenacidad. Cada vez que un empleado se acerca a un directivo con
+un problema difícil, el gerente le pregunta “¿Sabía usted que Rudy...?”, es decir, que
+si ha hecho todo lo posible para tratar de resolver el problema.22
+estructuras organizacionales. Un poderoso reflejo de la cultura es la forma en que
+está diseñada la organización. ¿Tiene una estructura mecanicista rígida o una estructura
+orgánica flexible, como se describe en los capítulos 1 y 4? ¿Hay una jerarquía alta o plana,
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+Prestar atención a la
+cultura corporativa.
+Comprender los valores
+subyacentes, supues tos
+y creencias implíci tas
+en los que se basa
+la cultura, así como
+sus manifestaciones
+observables. Evaluar
+la cultura corporativa
+con base en los ritos y
+
+las ceremonias, las his-
+torias y los mitos, los
+
+símbolos y las estruc-
+turas, los sistemas de
+
+control y las relaciones
+de poder que puede
+
+observar en la organi-
+zación.
+
+Portafolios
+
+Capítulo 10: Cultura organizacional y valores éticos 395
+
+como se estudia en el capítulo 3? La forma en que las personas y los departamentos están
+colocados en un todo y el grado de flexibilidad y autonomía que tienen las personas, dice
+mucho acerca de cuáles son los valores culturales en los que hace hincapié la organización.
+Los siguientes son un par de ejemplos:
+r -BFTUSVDUVSBEF/PSETUSPNSFGMFKBFMÊOGBTJTEFMBDBEFOBEFHSBOEFTBMNBDFOFTFOFM
+empowerment y el apoyo a los empleados de nivel inferior. Nordstrom es famosa por
+su extraordinario servicio al cliente. La gráfica de su organización, que se muestra en
+la figura 10.3, simboliza que los gerentes están allí para apoyar a los empleados que
+proporcionan el servicio, en vez de ejercer un rígido control sobre ellos.23
+r 1BSBDPOTFHVJSRVF$ISZTMFSWPMWJFSBBQPOFSTFSÃQJEBNFOUFFOQJFEFTQVÊTEFVOB
+reorganización por bancarrota, el CEO Sergio Marchionne recortó varias capas de
+administración para aplanar la estructura y obtener altos ejecutivos más cerca de la
+elaboración y la venta de vehículos. Marchionne también optó por una oficina del
+cuarto piso en el centro técnico, en lugar de ocupar la suite ejecutiva en la última
+planta, para simbolizar la importancia de los altos ejecutivos de estar cerca de los
+ingenieros y supervisores en la toma de decisiones del día a día.24
+relaciones de poder. Analizar las relaciones de poder significa descifrar quién ejerce su
+influencia o manipula o tiene la capacidad de hacerlo. ¿Qué personas y departamentos
+son los tenedores clave del poder en la organización? En algunas empresas, el personal
+
+de finanzas tiene bastante poder, mientras que en otras son los ingenieros y los diseña-
+dores. Otro aspecto es considerar si las relaciones de poder son formales o informales,
+
+por ejemplo si las personas tienen el poder basándose principalmente en su posición
+en la jerarquía, o en otros factores, como su experiencia y conocimientos o su carácter
+admirable. Considere los siguientes ejemplos:
+
+FIGURA 10.3
+0SHBOJHSBNBEF
+/PSETUSPN*OD
+
+'VFOUF6UJMJ[BEPDPOBVUPSJ[BDJÓOEF/PSETUSPN
+*OD
+CLIENTES
+
+PERSONAL DE VENTAS Y DE APOYO A VENTAS
+
+GERENTES DE DEPARTAMENTO
+GERENTES DE TIENDA
+COMPRADORES
+GERENTES DE MERCANCÍA
+
+DIRECTORES;
+EQUIPO
+DIRECTIVO
+
+396 Parte 5: Administración de procesos dinámicos
+
+r 6OBGJSNBEFJOWFSTJPOFTFO"UMBOUB
+(FPSHJB
+UJFOFVOiTBOUVBSJPJOUFSOPuDPOPGJDJOBT
+
+baños y un salón comedor para los altos directivos. La puerta de entrada tiene una
+cerradura electrónica a la que sólo pueden tener acceso los miembros. Los gerentes
+de nivel medio tienen el título de “directores” y comen en un comedor separado. Los
+supervisores de primer nivel y otros empleados comparten una cafetería general. Las
+instalaciones del comedor y los títulos indican quién tiene más poder en la jerarquía
+vertical de la organización.
+r &O8-(PSF
+
+QPDBTQFSTPOBTUJFOFOUÎUVMPTZOBEJFUJFOFVOKFGF&OWF[EFRVFMBT
+personas tengan poder basándose en su posición, los líderes surgen dependiendo de
+quién tiene una buena idea y puede reclutar a personas que trabajen en ella.25
+sistemas de control. El último elemento que se muestra en la figura 10.2 se relaciona con
+los sistemas de control, o el funcionamiento interno de la manera en que la organización
+controla a las personas y las operaciones. Esto incluye estudiar cosas tales como la forma
+como se administra la información, si los gerentes aplican un control del comportamiento
+o de los resultados relacionados con las actividades de los empleados, los sistemas de
+control de calidad, los métodos de control financiero, los sistemas de recompensas y cómo
+se toman las decisiones. Los siguientes son dos ejemplos de la forma en que los sistemas
+de control reflejan la cultura:
+r &O "OIFVTFS#VTDI *O#FW
+
+ MPT HFSFOUFT EFM DFOUSP EF EJTUSJCVDJÓO DPO GSFDVFODJB
+empiezan el día con una especie de reunión de estimulación, repasando los objetivos
+de venta del día y motivando a las personas para que salgan a vender más cerveza.
+El sistema de compensación de la empresa, basado en incentivos y su enfoque en un
+incremento en las ventas, al mismo tiempo que se reducen rigurosamente los costos,
+son elementos clave de su cultura corporativa altamente competitiva.26
+r /FUGMJYQFSNJUFRVFMPTFNQMFBEPTIBHBOMBNBZPSÎBEFTVTQSPQJBTFMFDDJPOFT
+JODMVTP
+en la forma de su propia compensación y en cuántas vacaciones deben tomar. Esta
+libertad, combinada con la responsabilidad, refleja lo que la gerente de marketing
+Heather McIlhany llama una cultura fuerte, de satisfacción de “un adulto maduro”.27
+Debemos recordar que la cultura existe en dos niveles, los valores subyacentes y los
+supuestos implícitos así como los artefactos visibles y las conductas observables. Los ritos
+
+y las ceremonias, las historias, los símbolos, las estructuras de la organización, las relacio-
+nes de poder y los sistemas de control que acabamos de describir son manifestaciones
+
+visibles de los valores implícitos de la empresa. Esos artefactos y conductas visibles se
+pueden utilizar para interpretar la cultura, pero los gerentes también los utilizan para
+modelar los valores de la empresa y reforzar la cultura corporativa deseada. Por tanto, el
+resumen de los artefactos culturales que se muestra en la figura 10.2 puede servir tanto
+como un mecanismo para la interpretación como una pauta para la acción cuando los
+gerentes deben cambiar o reforzar los valores culturales.28
+
+DISEÑO Y CULTURA DE LA ORGANIZACIÓN
+Los gerentes quieren una cultura corporativa que refuerce la estrategia y el diseño
+estructural que necesita la organización para ser efectiva dentro de su entorno. Por
+ejemplo, si el entorno externo requiere flexibilidad y capacidad de respuesta, como en el
+caso del entorno para las empresas basadas en Internet como Twitter, Netflix, Facebook
+o Hulu, la cultura debe fomentar la adaptabilidad. La relación correcta entre los valores
+culturales, la estrategia y la estructura organizacionales y el entorno puede mejorar el
+desempeño organizacional.29
+Las culturas se pueden evaluar en una amplia gama de dimensiones, como el grado de
+colaboración frente al aislamiento entre las personas y los departamentos, la importancia
+
+Capítulo 10: Cultura organizacional y valores éticos 397
+
+del control y dónde está concentrado, o si la orientación en el tiempo de la organización es
+a corto o a largo plazo.30 Aquí nos enfocaremos en dos dimensiones específicas: 1) el grado
+al cual el entorno competitivo requiere flexibilidad o estabilidad; y 2) el grado al cual el
+enfoque estratégico y la fortaleza de la organización son internos o externos. Cuatro
+categorías de cultura asociadas con estas diferencias, como se muestra en la figura 10.4,
+son adaptable, misión, clan y burocrática.31 Estas cuatro características se relacionan para
+
+tener cabida entre valores culturales, estrategia, estructura y entorno. Cada una puede te-
+ner éxito, dependiendo de las necesidades del entorno externo y del enfoque estratégico
+
+de la organización.
+
+EVALÚE
+SU
+RESPUESTA
+
+Los altos directivos por lo general, deben enfocar más su energía en la
+estrategia y la estructura que en la cultura corporativa.
+RESPUESTA: En desacuerdo.-PTBMUPTEJSFDUJWPTBWF[BEPTTBCFORVFQBSBRVFTV
+PSHBOJ[BDJÓOUFOHBÊYJUP
+
+MBDVMUVSBBQSPQJBEBEFCFBQPZBSZSFGPS[BSMBFTUSBUFHJBZMB
+
+FTUSVDUVSBQBSBTFSFGFDUJWBFOTVFOUPSOP&OVOBPDBTJÓO
+
+BMHVJFOEJKP
+
+i-BDVMUVSB
+TFEFTBZVOBBMBFTUSBUFHJBu-PTHFSFOUFTQVFEFOJOWFSUJSUPEPFMUJFNQPZMPTSFDVS
+TPTRVFUJFOFOQBSBEFGJOJSVOBFTUSBUFHJBFYDFMFOUF
+
+QFSPTJMPTWBMPSFTDVMUVSBMFT
+
+FTUÃOGVFSBEFMÎOFB
+
+TVJNQMFNFOUBDJÓOTFSÃJNQPTJCMF
+
+1
+'VFOUF#BTBEBFO%BOJFM3%FOJTPOZ"OFJM,.JTISB
+
+i5PXBSEB5IFPSZPG0SHBOJ[BUJPOBM$VMUVSFBOE&GGFDUJWFOFTTu
+
+
+Organization Science
+
+OÙN NBS[PBCSJMEF
+
+3)PPJKCFSHZ'1FUSPL
+
+i0O$VMUVSBM$IBOHF6TJOHUIF
+
+$PNQFUJOH7BMVFT'SBNFXPSLUP)FMQ-FBEFST&YFDVUFB5SBOTGPSNBUJPOBM4USBUFHZu
+
+Human Resource Management 32
+
+
+Z3&2VJOO
+
+Beyond Rational Management: Mastering the Paradoxes and Competing Demands of High
+
+Performance 4BO'SBODJTDP+PTTFZ#BTT
+
+
+FIGURA 10.4
+$VBUSPUJQPTEFDVMUVSB
+PSHBOJ[BDJPOBM
+
+Necesidades del entorno
+
+Flexibilidad Estabilidad
+
+Externo
+
+Interna
+
+Enfoque estratégico
+
+Cultura
+adaptable
+
+Cultura
+de misión
+
+Cultura
+burocrática
+
+Cultura
+de clan
+
+398 Parte 5: Administración de procesos dinámicos
+
+La cultura adaptable
+La cultura adaptable se caracteriza por el enfoque estratégico en el entorno externo,
+mediante la flexibilidad y el cambio, para satisfacer las necesidades del cliente. La cultura
+fomenta los valores del espíritu emprendedor, las normas y creencias que apoyan la
+capacidad de la organización para detectar, interpretar y traducir las señales del entorno
+en nuevas respuestas de comportamiento. Sin embargo, este tipo de empresa no reacciona
+con rapidez a los cambios del entorno, más bien crea el cambio en forma activa. La
+innovación, la creatividad y la aceptación del riesgo se valoran y recompensan.
+La mayoría de las empresas basadas en Internet utilizan el tipo de adaptación de la
+cultura, como lo hacen muchas empresas en las industrias de marketing, electrónica y
+cosméticos, ya que deben actuar con rapidez para satisfacer a los clientes. Zappos.com
+se convirtió en un minorista de Internet de gran éxito con una cultura que fomenta la
+capacidad de adaptación de mente abierta, el trabajo en equipo y un poco de rareza. El
+Bookmaker de este capítulo explica más acerca de la cultura de éxito, y la cultura un poco
+loca de Zappos.
+La cultura de misión
+Una organización interesada en servir a clientes específicos en el entorno externo, pero
+sin necesidad de un cambio rápido, es adecuada para una cultura de misión. La cultura de
+misión se caracteriza por un énfasis en una visión clara del propósito y en el logro de las
+metas, como crecimiento de ventas, rentabilidad o participación de mercado, para ayudar
+a lograr el propósito. Los empleados en lo individual pueden ser responsables de un
+nivel específico de desempeño y, a cambio de eso, la organización promete recompensas
+
+específicas. Los gerentes modelan el comportamiento imaginándose y comunicando un es-
+tado futuro deseado para la organización. Debido a que el entorno es estable, pueden
+
+traducir la visión a metas mensurables y evaluar el desempeño de los empleados para
+cumplirlas. En algunos casos, la cultura de misión refleja un alto nivel de competitividad
+y una orientación a ganar utilidades.
+Anheuser-Busch InBev, mencionada antes en el capítulo, refleja una cultura de
+misión. El profesionalismo, la ambición y el entusiasmo son valores clave. Los gerentes
+mantienen a los empleados enfocados en el logro de altos niveles de ventas y utilidades y
+quienes cumplen con las exigentes metas reciben una buena recompensa. Los bonos y las
+promociones se basan en el desempeño, no en la antigüedad, y los altos directivos no se
+disculpan por darles un trato preferencial a quienes obtienen grandes logros.32
+La cultura de clan
+La cultura de clan tiene un enfoque primordial en el interés y la participación de los
+miembros de la organización y en expectativas rápidamente cambiantes del entorno
+externo. Esta cultura es similar a la forma de control de clan descrita en el capítulo 9.
+Más que cualquier otra, esta cultura se enfoca en satisfacer las necesidades de los
+empleados como la ruta para lograr un alto desempeño. El interés y la participación crean
+un sentido de responsabilidad y propiedad y, por consiguiente, un mayor compromiso con
+la organización.
+En una cultura de clan, un valor importante es cuidar de los empleados y asegurarse
+de que tengan cualquier cosa que necesiten para ayudarlos a sentirse satisfechos y a la
+vez productivos. Aunque muchas empresas de la industria del software enfatizan valores
+asociados con una cultura de adaptación, SAS Institute ha tenido un gran éxito con una
+fuerte cultura de clan, como se describe en el siguiente ejemplo de En la práctica.
+
+Capítulo 10: Cultura organizacional y valores éticos 399
+
+y$VÃOUBTFNQSFTBTQBHBOBMPTFNQMFBEPTQPSEFKBSEFGVNBS 
+;BQQPTDPNMPIBDF
+
+QPSRVFFM$&05POZ)TJFIDSFFRVFQBHBS
+BBMHVJFOQPSEFKBSEFGVNBSFTEFQPSRVFFTUPTFHBTUB
+DVBOEPTFEFTIBDFEFVOBQFSTPOBRVFOPFODBKBZQPESÎBEB
+ÒBSMBDVMUVSBEFMBDPNQBÒÎB&MÊYJUPEFMWFOEFEPSEF[BQBUPT
+QPS*OUFSOFU ZBIPSBPUSPTQSPEVDUPT
+
+FTGBNPTPQPSTVFYDFQ
+
+DJPOBMTFSWJDJPBMDMJFOUF
+
+QFSPMPTBENJOJTUSBEPSFTEJDFORVFOJ
+TJRVJFSBIBCMBOEFTFSWJDJPBMDMJFOUFFOMBFNQSFTB&OTVMVHBS
+
+TFDFOUSBOFOMBDVMUVSBZFOVOTFSWJDJPFYDFQDJPOBMZBMUPSFOEJ
+NJFOUPRVFMFTEBCVFOSFTVMUBEP
+La forma de entregar felicidad de Zappos
+5POZ)TJFI TF VOJÓ B ;BQQPTDPN FO  Z IVOEJÓ QSÃDUJDB
+NFOUFUPEPTTVTBDUJWPTFOFMOFHPDJPQBSBNBOUFOFSMPFONBS
+DIBEVSBOUFMBDBÎEBEFMBTFNQSFTBTQVOUPDPN1BSBFMBÒP
+
+DVBOEP"NB[PODPNQSÓMBDPNQBÒÎBQPS
+NJMNJMMP
+
+OFT EF EÓMBSFT
+
+ ;BQQPT GVF VOP EFMPTNJOPSJTUBT EF*OUFSOFU
+DPONÃTÊYJUPEFUPEPTMPTUJFNQPT)TJFIDSFFRVFTFEFCFB
+RVFFMQSJODJQBMPCKFUJWPEFMBFNQSFTBFSBOPWFOEFS[BQBUPT
+
+
+TJOPQSPQPSDJPOBSMBGFMJDJEBE
+
+UBOUPBMPTFNQMFBEPTDPNPBMPT
+
+clientes.
+ )TJFI TBCF EF QSJNFSBNBOP MB JNQPSUBODJB EF VOB DVMUVSB
+GVFSUFZDPOTUSVDUJWBDVBOEPTFUSBUBEFMBGFMJDJEBEEFFNQMFB
+EPTZDMJFOUFT)BCÎBFYQFSJNFOUBEPMBSVUJOBTJOBMFHSÎBEFUSB
+CBKBS FO VO MVHBS RVF OP UFOÎB OJOHÙO TJHOJGJDBEP
+
+ Z EPOEF MB
+IBCJMJEBE UÊDOJDBFSB UPEPMPRVFJNQPSUBCB)TJFIEFDJEJÓFT
+DSJCJS%FMJWFSJOH)BQQJOFTTQBSBIBCMBSEFTVWJBKFEFiQFSTFHVJS
+HBOBODJBTQFSTJHVJFOEPQBTJÓOu
+
+MBTMFDDJPOFTEFMBWJEBRVFIB
+
+BQSFOEJEP
+ZDÓNPTFIBOBQMJDBEPFTBTMFDDJPOFTFO;BQQPT
+)FBRVÎBMHVOPTQVOUPTDMBWFQBSBMPTMÎEFSFTEFOFHPDJPT
+t 0CUFOFSMPTWBMPSFTDPSSFDUPT;BQQPT UJFOFVODPOKVOUPEF
+WBMPSFT GVOEBNFOUBMFTRVFJODMVZFO$SFBSEJWFSTJÓOZVO
+QPDPEFFYUSBÒF[B&OUSFHBSVO `8PXB USBWÊTEFMTFSWJDJP
+"CSB[BS Z DPOEVDJS FM DBNCJP 4FS BWFOUVSFSP
+
+ DSFBUJWP Z EF
+NFOUFBCJFSUB1FSTFHVJSFMDSFDJNJFOUPZFMBQSFOEJ[BKFZ4FS
+IVNJMEFT1FSP)TJFIOPEJDUBCBMPTWBMPSFTEFTEFBSSJCB&O
+WJÓVOFNBJMBUPEPTMPTFNQMFBEPTQSFHVOUÃOEPMFTRVÊWBMP
+SFTEFCÎBOHVJBSBMBFNQSFTB4FFYBNJOBSPOMBTSFTQVFTUBT
+
+TFSFTVNJFSPOZDPNCJOBSPOQBSBMMFHBSBMBMJTUBGJOBM
+
+t $POTFHVJSBMBHFOUFBEFDVBEB;BQQPTSFBMJ[BEPTTFSJFTEF
+FOUSFWJTUBT-BQSJNFSBTFDFOUSBFOMBFYQFSJFODJBSFMFWBOUF
+
+
+FOMBTIBCJMJEBEFTQSPGFTJPOBMFTZUÊDOJDBT
+
+ZFOMBDBQBDJ
+EBEEFUSBCBKBSFOFRVJQP&MTFHVOEPTFFOGPDBFYDMVTJWB
+NFOUFFOMBGPSNBEFDVMUJWP)BZQSFHVOUBTQBSBDBEBVOP
+EF MPT WBMPSFT GVOEBNFOUBMFT
+ UBMFT DPNP
+ y2VÊ UBO SBSP
+FTVTUFE 4FTFMFDDJPOBDVJEBEPTBNFOUFBMQFSTPOBMQBSB
+BEBQUBSTFBMBDVMUVSBEF;BQQPT
+
+JODMVTP TJFTUP TJHOJGJDB
+SFDIB[BSBMBTQFSTPOBTDPOIBCJMJEBEFTUÊDOJDBTGVFSUFT
+t )BDFSEFMBDVMUVSBVOBQSJPSJEBE5PEPTMPTFNQMFBEPTBTJT
+UFOBVOBTFTJÓOEFFOUSFOBNJFOUPEFDVBUSPTFNBOBTZTF
+DPNQSPNFUFODPOMPTWBMPSFTGVOEBNFOUBMFTEFMBNFNPSJB
+"MGJOBMEFMBDBQBDJUBDJÓO
+
+TFMFTPGSFDFOQPSEJNJUJS
+TJDSFFORVFOPUJFOFOVOCVFOBKVTUFDPOMBDVMUVSB$BEB
+BÒP
+;BQQPTQPOFVO$VMUVSF#PPL
+
+FOFMRVFMPTFNQMFBEPT
+DPNQBSUFOTVTQSPQJBTIJTUPSJBTBDFSDBEFMPRVFTJHOJGJDB
+MBDVMUVSBEF;BQQPTQBSBFMMPT-PTWBMPSFTGVOEBNFOUBMFT
+TPOBQPZBEPTQPSMBTFTUSVDUVSBT
+
+QSPDFTPTZTJTUFNBTRVF
+MFTEBOMBSFBMJEBEDPODSFUBZMPTNBOUJFOFOFOMBWBOHVBSEJB
+EFMBBUFODJÓOEFMPTFNQMFBEPT
+
+ZMBTSFWJTJPOFTEFSFOEJ
+NJFOUPTFCBTBOFOQBSUFFOMPCJFORVFMBHFOUFQBSUJDJQB
+en la cultura.
+Beneficios, pasión y propósitos
+&MMJCSP
+FTDSJUPFOVOFTUJMPOBSSBUJWP
+
+TFEJWJEFFOUSFTTFDDJP
+
+OFT&OMBQSJNFSB
+i1SPGJUTu
+)TJFIUSB[BTVTQSPZFDUPTFNQSF
+TBSJBMFT EF MB HSBOKB EF MPNCSJDFT RVF UFOÎB DVBOEP FSB OJÒP
+RVFGSBDBTBSPODVBOEPUPEPTMPTHVTBOPTFTDBQBSPO
+BUSBWÊT
+
+EFMBVOJWFSTJEBE
+
+ZFOMBGVOEBDJÓOZMBWFOUBEF-JOL&YDIBOHF
+
+DVBOEP FSB VO KPWFO BEVMUP -B TFHVOEB TFDDJÓO
+
+ i1SPGJUT BOE
+
+1BTTJPOu
+TFDFOUSBQSJODJQBMNFOUFFOTVTFYQFSJFODJBTFO;B
+QQPT
+ZMBTFDDJÓOGJOBM
+i1SPGJUT
+1BTTJPO
+BOE1VSQPTFu
+FTCP[B
+MFDDJPOFTEFWJEBZTVGJMPTPGÎBBDFSDBEFMBEJGVTJÓOEFMBGFMJDJ
+EBEEF)TJFI"EFNÃTEFTFSVOBMFDUVSBSÃQJEB
+
+FMMJCSPPGSFDF
+
+FOUSFUFOJNJFOUP
+
+JOGPSNBDJÓOFJOTQJSBDJÓO
+%FMJWFSJOH)BQQJOFTTA Path to Profits, Passion, and Purpose
+EF5POZ)TJFI
+
+
+FTUÃQVCMJDBEPQPS#VTJOFTT1MVT
+
+)BUDIFUUF#PPL(SPVQ
+*OD
+
+Delivering Happiness: A Path to Profits, Passion, and Purpose
+%F5POZ)TJFI
+BookMark 10.0 (¿YA LEYÓ ESTE LIBRO?)
+
+400 Parte 5: Administración de procesos dinámicos
+
+&OFOFSPEF
+
+TÓMPMBTFNQSFTBTNÃTHSBO
+EFT EF &TUBEPT 6OJEPT EFTQJEJFSPO B 
+
+
+FNQMFBEPT
+ Z NÃT EFTQJEPT NBTJWPT TJHVJFSPO
+1FSP
+ +JN (PPEOJHIU
+
+ DPGVOEBEPS Z $&0 EF 4"4
+
+*OTUJUVUF
+FMMÎEFSFOTPGUXBSFEF#VTJOFTT"OBMZ
+
+UJDT
+IJ[PVOBQSPNFTBDMBSBZEFGJOJUJWBBTVT
+
+FNQMFBEPTBQSJODJQJPTEFi/PIBCSÃ
+
+EFTQJEPTu
+&O4"4
+ MB HFOUF SFBMNFOUF TF DPOTJEFSB FM BDUJWPNÃT WBMJPTP EF MB FNQSFTB
+ Z TF IBDF
+
+IJODBQJÊFOMPTWBMPSFTDVMUVSBMFTDPNPFMSFTQFUP
+
+MBJHVBMEBEZFMDVJEBEPEFMPTFNQMFBEPT
+
+5PEPTMPTUSBCBKBEPSFT
+
+ZBTFBVOJOHFOJFSP
+
+VOBVYJMJBSBENJOJTUSBUJWP
+
+EFTFSWJDJPEFBMJNFOUPT
+
+
+P VO KBSEJOFSP
+
+ TF USBUBO QPS JHVBM -B FNQSFTB OP FYUFSOBMJ[B MBT GVODJPOFT
+
+ QPS MP RVF MBT
+QFSTPOBT TF TJFOUFO TFHVSBT FO TVT QVFTUPT EF USBCBKP &M QBQFM EF MPT EJSFDUJWPT FT BQPZBS
+MBTOFDFTJEBEFTEFMPTFNQMFBEPTEFOJWFMJOGFSJPS6OSFGMFKPEFMPNVDIPRVFVOBDPNQBÒÎBTF
+QSFPDVQBQPSTVHFOUFFTMBHBNBEFCFOFGJDJPTRVFPGSFDF
+
+Z4"4QBTBQPSFODJNBQBHBFM
+
+QPSDJFOUPEFDPCFSUVSBEFMBTQSJNBTEFTFHVSPEFTBMVE
+
+UJFOFVOBDMÎOJDBHSBUVJUBFOFMTJUJP
+
+NÊEJDP
+VOHJNOBTJPEF
+
+QJFTDVBESBEPT
+
+VODFOUSPEFDVJEBEPJOGBOUJMFOFMMVHBSEFCBKP
+
+DPTUP
+VODBNQBNFOUPEFWFSBOPQBSBOJÒPT
+
+ZVODFOUSPEFWJEBMBCPSBMDPOVOBQMBOUJMMBEFPDIP
+
+USBCBKBEPSFTTPDJBMFT-PTFNQMFBEPT UJFOFOIPSBSJPT GMFYJCMFTEF USBCBKP
+
+EÎBTEFFOGFSNFEBE
+
+TJO MÎNJUF
+ Z USFT TFNBOBT EF WBDBDJPOFT QBHBEBT TJO JODMVJS MB TFNBOB FOUSF/BWJEBE Z "ÒP
+/VFWP
+ -BDPNQBÒÎB UBNCJÊO PGSFDF PUSPT TFSWJDJPT QBSBiFMJNJOBS FM FTUSÊT ZMB BUSBDDJÓO EF
+UBMFOUPu
+DPNPTBMÓOEFCFMMF[B
+
+TFSWJDJPEFBVUP
+
+SFTUBVSBOUFZQBOBEFSÎB
+
+ZTBMBTEFEFTDBOTP
+
+DPOBQFSJUJWPTZCFCJEBT
+i&MWBMPSEF4"4DBNJOB GVFSBEFMFEJGJDJPBMBT UPEBTMBTOPDIFTu
+
+EJDF(PPEOJHIUi.J
+USBCBKPDPOTJTUFFOBTFHVSBSNFEFRVFRVJFSBOWPMWFSu-BGBDUVSBDJÓOFO4"4FTEFBMSFEFEPS
+EFQPSDJFOUP
+
+MBNÃTCBKBFOMBJOEVTUSJB*ODMVTPDVBOEPMBFDPOPNÎBFTUBCBFOBVHFZIBCÎB
+DJODPQVFTUPTEFUSBCBKPQBSBUPEPTMPTUSBCBKBEPSFTFYQFSUPTFOMBJOEVTUSJBEFMTPGUXBSF
+4"4
+
+QSPNFEJÓVOQPSDJFOUPFMWPMVNFOEFOFHPDJPT
+
+FODPNQBSBDJÓODPOFMQPSDJFOUPEFUPEBMB
+JOEVTUSJB4"4IBFTUBEPFOMBMJTUBEFMBTi#FTU$PNQBOJFTUP8PSL'PSuEFMBSFWJTUBFortune
+DBEBBÒPEFTEFRVFBQBSFDJÓQPSQSJNFSBWF[DPOFMOÙNFSPFOZ33
+La cultura de clan en SAS ha ayudado a la empresa a prosperar y a seguir creciendo,
+incluso durante la recesión económica. Los analistas de la industria dicen que la
+excepcionalmente baja rotación habilitada por SAS para salvar cientos de millones de
+dólares al año no tuvieron que experimentarla otras empresas en el reclutamiento y en la
+formación de nuevas personas cuando el mercado de trabajo era escaso.
+La cultura burocrática
+La cultura burocrática tiene un enfoque interno y una orientación congruente hacia un
+entorno estable. Este tipo de cultura apoya un enfoque metódico para hacer negocios. Los
+símbolos, los héroes y las ceremonias refuerzan los valores de cooperación, tradición y
+de seguir políticas y prácticas establecidas como formas de alcanzar las metas. El nivel de
+participación personal es un poco más bajo en esta cultura, pero lo supera un alto nivel
+
+de congruencia, conformismo y colaboración entre los miembros. Esta clase de or ga ni-
+zación tiene éxito por ser altamente integrada y eficiente.
+
+En la actualidad, la mayoría de los gerentes se aparta de las culturas burocráticas, debido
+a una necesidad de mayor flexibilidad. Sin embargo, Pacific Edge Software (ahora parte
+de Serena Software) implementó con éxito algunos elementos de la cultura burocrática
+para asegurarse de que todos los proyectos estén a tiempo y dentro del presupuesto.
+Lisa Hjorten y Scott Fuller, el matrimonio fundador, implantaron intencionalmente una
+cultura de orden, disciplina y control. Este énfasis en el orden y el enfoque significa que los
+empleados por lo general se van a casa a las 6:00 p. m., en vez de trabajar toda la noche
+para concluir un proyecto importante. Aun cuando en ocasiones ser cuidadoso significa
+ser lento, Pacific Edge logró mantener el ritmo de las demandas del entorno externo.34
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+Asegurarse de que la
+cultura corporativa
+sea congruente con la
+estrategia y el entorno.
+La cultura se puede
+modelar para ajustarse
+ambas necesidades.
+Los cuatro tipos de
+cultura son cultura
+adaptable, cultura de
+misión, cultura de clan
+y cultura burocrática.
+Portafolios
+SAS Institute
+EN LA PRÁCTICA
+
+Capítulo 10: Cultura organizacional y valores éticos 401
+A algunas personas les agrada el orden y lo predecible de una cultura burocrática,
+mientras que otras se sentirían sofocadas y restringidas por un exceso de disciplina y se
+sentirían más felices trabajando en algún otro tipo de cultura. Llene el cuestionario en la
+sección “¿Cómo adapta usted el diseño?” para tener una idea de en qué tipo de cultura
+(adaptable, de misión, de clan o burocrática) se sentiría más cómodo y en cual trabajaría
+con mayor éxito.
+Fortaleza de la cultura y subculturas organizacionales
+
+La fortaleza de la cultura se refiere al grado de acuerdo entre los miembros de una or ga-
+nización acerca de la importancia de valores específicos. Si existe un amplio consenso
+
+acerca de la importancia de esos valores, la cultura es cohesiva y fuerte; si existe muy poco
+acuerdo, la cultura es débil.35
+Una cultura sólida a menudo está asociada con el uso frecuente de ceremonias,
+símbolos e historias, como describimos antes, y los gerentes alinean las estructuras y los
+procesos para respaldar los valores culturales. Estos elementos incrementan el compromiso
+del empleado con los valores y la estrategia de una empresa. Sin embargo, la cultura
+no siempre es uniforme en toda la organización, en particular en las empresas grandes.
+
+-B BGJOJEBE FOUSF VO HFSFOUF P VO FNQMFBEP Z MB DVMUVSB
+DPSQPSBUJWB QVFEF EFUFSNJOBS UBOUP FM ÊYJUP DPNP MB TBUJT
+GBDDJÓO QFSTPOBMFT 1BSB DPNQSFOEFS TV QSFGFSFODJB FO MP
+DPODFSOJFOUFBMBDVMUVSB
+
+DBMJGJRVFMPT TJHVJFOUFTBTQFDUPT
+
+EFMBM
+DPOCBTFFOMPGJSNFEFTVQSFGFSFODJB OJWFM
+NÃTBMUPEFQSFGFSFODJBOJWFMNÃTCBKPEFQSFGFSFODJB
+1.-BPSHBOJ[BDJÓOFTNVZQFSTPOBM
+
+NVZTFNFKBOUFBVOB
+
+GBNJMJBOVNFSPTB@@@@@
+2.-BPSHBOJ[BDJÓOFTEJOÃNJDBZDBNCJBOUF
+EPOEFMBT
+
+QFSTPOBTBTVNFOSJFTHPT@@@@@
+3.-BPSHBOJ[BDJÓOFTUÃPSJFOUBEBBMPTMPHSPTZFMFOGPRVF
+FOMBDPNQFUFODJBZFOEFTFNQFÒBSFMUSBCBKP@@@@@
+4.-BPSHBOJ[BDJÓOFTFTUBCMFZFTUSVDUVSBEB
+DPOQSPDF
+
+EJNJFOUPTDMBSPTZFTUBCMFDJEPT@@@@@
+5.&MFTUJMPHFSFODJBMTFDBSBDUFSJ[BQPSFMUSBCBKPFOFRVJQP
+ZMBQBSUJDJQBDJÓO@@@@@
+6.&MFTUJMPHFSFODJBMTFDBSBDUFSJ[BQPSMBJOOPWBDJÓOZMB
+BTVODJÓOEFSJFTHPT@@@@@
+7.&MFTUJMPHFSFODJBMTFDBSBDUFSJ[BQPSEFNBOEBTEFVO
+BMUPEFTFNQFÒPZMPHSPT@@@@@
+8.&MFTUJMPHFSFODJBMTFDBSBDUFSJ[BQPSMBTFHVSJEBEZMP
+QSFEFDJCMF@@@@@
+Preferencia de cultura corporativa
+¿Cómo adapta usted el diseño?
+
+Calificación: 1BSB DBMDVMBS TV QSFGFSFODJB FO DBEB UJQP EF
+DVMUVSB
+TVNFMBTDBMJGJDBDJPOFTQBSBDBEBTFSJFEFEPTQSF
+HVOUBT
+DPNPTJHVF
+$VMUVSBEFDMBOUPUBMQBSBMBTQSFHVOUBT
+@@@@
+$VMUVSBBEBQUBCMFUPUBMQBSBMBTQSFHVOUBT
+@@@@
+$VMUVSBEFNJTJÓOUPUBMQBSBMBTQSFHVOUBT
+@@@@
+$VMUVSBCVSPDSÃUJDBUPUBMQBSBMBTQSFHVOUBT
+@@@@
+Interpretación: $BEB VOB EF MBT QSFHVOUBT BOUFSJPSFT
+DPSSFTQPOEFBVOPEFMPTDVBUSPUJQPTEFDVMUVSBFOMBGJHVSB
+6OBDBMJGJDBDJÓONÃTCBKBTJHOJGJDBVOBNBSDBEBQSF
+GFSFODJB QPS FTB DVMUVSB FTQFDÎGJDB &T QSPCBCMF RVF TF
+TJFOUBNÃTDÓNPEPZFGFDUJWPDPNPHFSFOUFFOVOBDVMUVSB
+DPSQPSBUJWBRVFTFBDPNQBUJCMFDPOTVTQSFGFSFODJBTQFSTP
+OBMFT6OBDBMJGJDBDJÓONÃTBMUB TJHOJGJDBRVFMBDVMUVSBOP
+TF BKVTUB B TVT FYQFDUBUJWBT Z TFSÎB OFDFTBSJP DBNCJBS TV
+FTUJMPQBSBTFSFGFDUJWP3FQBTFMBEJTDVTJÓOEFMMJCSPTPCSF
+MPTDVBUSPUJQPTEFDVMUVSBy-BTDBMJGJDBDJPOFTEFTVTQSFGF
+SFODJBTDVMUVSBMFTMFQBSFDFODPSSFDUBT y1VFEFQFOTBSFO
+BMHVOBTFNQSFTBTRVFTFBKVTUBSÎBOBTVTQSFGFSFODJBTFO
+MPDPODFSOJFOUFBMBDVMUVSB
+'VFOUF"EBQUBEPEF,JN4$BNFSPOZ3PCFSU&2VJOO
+Diagnosing
+
+and Changing Organizational Culture 3FBEJOH
+
+ .BTTBDIVTFUUT
+
+"EEJTPO8FTMFZ
+
+
+
+402 Parte 5: Administración de procesos dinámicos
+Incluso en las organizaciones que tienen culturas sólidas, puede haber varias series de
+
+subculturas. Las subculturas se desarrollan para reflejar los problemas, las metas y ex-
+periencias comunes que comparten los miembros de un equipo, de un departamento o de
+
+otra unidad. Una oficina, una sucursal o una unidad que están físicamente separadas
+de las principales operaciones de la empresa pueden adoptar una subcultura distintiva.
+Por ejemplo, aun cuando la cultura dominante de una organización puede ser de
+misión, varios departamentos también pueden reflejar características de las culturas
+adaptable, de clan o burocrática. El departamento de manufactura de una organización
+grande puede prosperar en un entorno que hace hincapié en el orden, la eficiencia y la
+obediencia a las reglas, mientras que el departamento de investigación y desarrollo se
+puede caracterizar por el empowerment de los empleados, la flexibilidad y el enfoque en el
+cliente. Esto es similar al concepto de diferenciación que se describe en el capítulo 4, donde
+los empleados en los departamentos de manufactura, ventas e investigación estudiados
+por Paul Lawrence y Jay Lorsch36 desarrollaron diferentes valores respecto al horizonte
+de tiempo, las relaciones interpersonales y la formalidad con el fin de desempeñar el
+trabajo de cada departamento particular en la forma más efectiva. Considere cómo la
+división de crédito de Pitney Bowes, una corporación muy grande que fabrica máquinas
+franqueadoras, copiadoras y otro tipo de equipo para oficina, desarrolló una subcultura
+distintiva para alentar la innovación y la asunción de riesgos.
+
+1JUOFZ #PXFT
+
+ GBCSJDBOUF EF NÃRVJOBT GSBORVFB
+
+EPSBT ZPUSPFRVJQPQBSBPGJDJOB
+
+IBQSPTQFSBEP
+EFTEF IBDF MBSHP UJFNQP FO VO FOUPSOP EF PS
+EFO Z QSFEJDUJCJMJEBE 4VT PGJDJOBT DPSQPSBUJWBT
+
+SFGMFKBO FM FOUPSOP UÎQJDP EF VOB DPSQPSBDJÓO Z VOB DVMUVSB EF PSEFO
+
+ DPO TVT NVSPT CMBODPT
+Z TVT NVMMJEBT BMGPNCSBT 1FSP TJ TVCJNPT BM UFSDFS QJTP EFM FEJGJDJP EF 1JUOFZ #PXFT FO
+4IFMUPO
+$POOFDUJDVU
+
+QPESÎBNPTQFOTBSRVFOPTFODPOUSBNPTFOVOBPGJDJOBEJGFSFOUF&MUFSSJUPSJP
+
+EF1JUOFZ#PXFT$SFEJU$PSQPSBUJPO 1#$$
+
+TFBTFNFKBNÃTBVOQBSRVFUFNÃUJDPCBKPUFDIP
+DPO
+
+BMGPNCSBTRVFTJNVMBOBEPRVJOFT
+
+GBMTBTMÃNQBSBTEFHBTZVOPSOBEPSFMPKBMFTUJMPEFMBQMB[BEF
+
+VOBDJVEBE5BNCJÊODVFOUBDPOVODBGÊFTUJMPGSBODÊT
+
+VODPNFEPSBMFTUJMPEFMBEÊDBEBEF
+
+ZMBi$SBOJBM,JUDIFOu
+
+EPOEFMPTFNQMFBEPTTFTJFOUBOFOBDPHFEPSFTRVJPTDPTQBSBOBWFHBS
+FO *OUFSOFU P WFS WJEFPT EF DBQBDJUBDJÓO -PT BNJHBCMFT QBTJMMPT BMJFOUBO MBT DPOWFSTBDJPOFT
+JNQSPWJTBEBT
+
+FOMBTRVFMBTQFSTPOBTQVFEFOJOUFSDBNCJBSJOGPSNBDJÓOZDPNQBSUJSJEFBTRVFOP
+
+IBSÎBOEFPUSBNBOFSB
+1PSUSBEJDJÓO
+
+1#$$BZVEBCBBMPTDMJFOUFTBGJOBODJBSTVTOFHPDJPTDPOMBFNQSFTBNBUSJ[
+
+4JO FNCBSHP .BUUIFX ,JTOFS
+
+ FM QSFTJEFOUF Z $&0 EF 1#$$
+
+ IB USBCBKBEP DPO PUSPT HFSFOUFT
+
+QBSB SFEFGJOJSMBEJWJTJÓODPNPVOBDSFBEPSBEFTFSWJDJPT
+
+FOMVHBSEFTFSTÓMPVOBQSPWFFEPSB
+EF TFSWJDJPT&OWF[EF TJNQMFNFOUF GJOBODJBSMBTWFOUBT Z FM BSSFOEBNJFOUP EFMPT QSPEVDUPT
+FYJTUFOUFT
+ 1#$$ BIPSB DSFB OVFWPT TFSWJDJPT RVF QVFEFO DPNQSBS MPT DMJFOUFT 1PS FKFNQMP
+
+1VSDIBTF 1PXFS FT VOB MÎOFB EF DSÊEJUP SFWPMWFOUF RVF BZVEB B MBT FNQSFTBT B GJOBODJBS TVT
+DPTUPTEFGSBORVFP'VFSFOUBCMFEFTQVÊTEFUSBOTDVSSJEPTTÓMPOVFWFNFTFTZFOMBBDUVBMJEBE
+DVFOUB DPO NÃT EF   DMJFOUFT $VBOEP 1#$$ SFEFGJOJÓ TV USBCBKP
+
+ FNQF[Ó B SFEFGJOJS
+
+TV DVMUVSB QBSB JHVBMBSMB
+
+ IBDJFOEP IJODBQJÊ FO MPT WBMPSFT EFM USBCBKP FO FRVJQP
+
+ MB BEPQDJÓO
+EFSJFTHPTZMBDSFBUJWJEBEi2VFSÎBNPTVOFTQBDJPEJWFSUJEPRVFSFQSFTFOUBSBOVFTUSBDVMUVSBu
+
+
+EJDF,JTOFSi/BEBEFMÎOFBTSFDUBT
+
+OJEFQFOTBNJFOUPMJOFBM%FCJEPBRVFTPNPTVOBGJSNBEF
+
+TFSWJDJPT GJOBODJFSPT
+
+ OVFTUSBNBZPS WFOUBKB FTMBDBMJEBE EF OVFTUSBTJEFBTu)BTUB BIPSB
+ FM
+
+OVFWPFOGPRVFEF1#$$FTUÃEBOEPSFTVMUBEP&OFMUSBOTDVSTPEFVOBÒPMBEJWJTJÓO
+
+DVZPT
+
+FNQMFBEPTDPOTUJUVZFONFOPTEFEFMBGVFS[BEFUSBCBKPUPUBMEF1JUOFZ#PXFT
+
+HFOFSÓ
+
+EFMBVUJMJEBEOFUBEFMBFNQSFTB ■
+Las subculturas, por lo general, incluyen los valores básicos de la cultura organizacional
+dominante más valores adicionales únicos para los miembros de la subcultura. Sin
+embargo, las diferencias subculturales en ocasiones pueden conducir a conflictos entre los
+
+Pitney
+Bowes Credit
+Corporation
+EN LA PRÁCTICA
+
+Capítulo 10: Cultura organizacional y valores éticos 403
+departamentos, en especial en organizaciones que no tienen sólidas culturas corporativas
+globales o cuando los valores subculturales llegan a ser muy sólidos y superan los
+valores culturales corporativos, pueden surgir conflictos que dañen el desempeño de la
+organización. El conflicto se estudia con detalle en el capítulo 13.
+
+CULTURA ORGANIZACIONAL, APRENDIZAJE
+Y DESEMPEÑO
+
+La cultura puede desempeñar un rol importante en la creación de un entorno or ga ni-
+zacional que permite el aprendizaje y una respuesta innovadora a los retos, las amenazas
+
+competitivas o las nuevas oportunidades. Una cultura sólida que fomenta la aceptación y el
+cambio mejora el desempeño organizacional, al dar energía a los empleados y motivarlos,
+unificando a las personas en torno a metas compartidas y de una misión más alta y
+modelando y guiando el comportamiento, de manera que las acciones de todos estén
+alineadas con las prioridades estratégicas. Por consiguiente, la creación de una cultura
+constructiva y su influencia es uno de los trabajos más importantes de un gerente. La
+cultura correcta puede conducir a un alto desempeño.38
+Varios estudios han encontrado una relación positiva entre la cultura y el desempeño.39
+En Corporate Culture and Performance, Kotter y Heskett proporcionaron evidencia de
+que las empresas que intencionalmente administraban los valores culturales superaban
+el desempeño de sus similares que no lo hacían. Algunas empresas han desarrollado
+formas sistemáticas para medir y administrar el impacto de la cultura en el desempeño
+organizacional. En Caterpillar, los líderes utilizaban una herramienta llamada Proceso
+
+de Evaluación Cultural, que les proporcionaba a los altos directivos datos sólidos do-
+cumentando millones de dólares en ahorros, que podían atribuir directamente a los
+
+factores culturales.40 Incluso el gobierno federal de Estados Unidos está reconociendo el
+vínculo entre cultura y efectividad. La Oficina de Administración de Personal de Estados
+Unidos creó su Encuesta de Evaluación Organizacional como una forma de que las
+agencias federales midieran los factores de la cultura y cambiaran los valores hacia un
+nivel de desempeño más alto.41
+Sin embargo, las culturas poderosas que no fomentan la adaptación constructiva
+pueden perjudicar a la organización. Uno de los peligros para numerosas corporaciones
+exitosas es que la cultura se vuelva fija y la empresa no se adapte a medida que cambia
+el entorno. Cuando las organizaciones son exitosas, los valores, las ideas y prácticas que
+ayudaron a alcanzar el éxito se vuelven institucionales. Conforme cambia el entorno, esos
+valores pueden ir en detrimento del futuro desempeño. Muchas empresas se convierten
+en víctimas de su propio éxito, aferrándose a valores y conductas obsoletas, e incluso
+destructivas. Considere la posibilidad de que sólo un par de meses después de la explosión
+de Deepwater Horizon y el derrame masivo de petróleo en el Golfo de México, Tony
+Hayward, CEO de BP en el momento, fue a Inglaterra para competir con su yate en una
+carrera alrededor de la Isla de Wight. La medida provocó indignación, y fue un reflejo de
+una cultura audaz y arrogante que se había vuelto destructiva, como BP, al involucrarse en
+negocios de mayor riesgo. Una larga serie de violaciones de seguridad, accidentes y errores
+costosos eran precursores del desastre de Deepwater Horizon. Hayward pronto pidió la
+renuncia, y un nuevo CEO y otros altos directivos iniciaron un examen detallado de cómo
+arreglar una cultura otrora eficaz.42
+Por consiguiente, el impacto de una cultura poderosa no siempre es positivo. Las
+culturas saludables no sólo proporcionan una integración interna sin tropiezos, sino
+que también fomentan la adaptación al entorno externo. Las culturas que no se adaptan
+fomentan la rigidez y la inmovilidad. Las culturas adaptables sólidas a menudo incluyen
+los siguientes valores:
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+
+Administrar conscien-
+temente la cultura, con
+
+el fin de cambiar los
+valores hacia un nivel
+de desempeño más
+alto y el logro de las
+metas.
+Portafolios
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+
+Para apoyar una orien-
+tación al aprendizaje,
+
+hacer hincapié en los
+valores culturales de
+
+apertura y colabora-
+ción, mejora continua
+
+y asunción de riesgos.
+Crear una poderosa
+cultura interna que
+fomente la adaptación
+
+a las condiciones cam-
+biantes del entorno.
+
+Portafolios
+
+404 Parte 5: Administración de procesos dinámicos
+1 El todo es más importante que las partes y las fronteras entre las partes se minimizan. Las
+personas están conscientes del sistema como un todo, de la forma en que todo se ajusta
+y de las relaciones entre varias partes organizacionales. Todos los miembros consideran
+cómo sus acciones afectan a otras partes y a la organización total. Este énfasis en el todo
+reduce las fronteras, tanto dentro de la organización como con otras empresas. Aun
+cuando es posible que se formen subculturas, las principales actitudes y conductas de
+todos reflejan la cultura dominante de la organización. El libre flujo de personas, ideas
+e información permite una acción coordinada y un aprendizaje continuo.
+2 La igualdad y la confianza son los principales valores. La cultura crea un sentido de
+comunidad e interés de unos hacia otros. La organización es un lugar para crear una
+red de relaciones que permite que las personas asuman riesgos y se desarrollen a su
+máximo potencial. El énfasis en tratar a todos con interés y respeto crea un entorno
+de seguridad y confianza que permite la experimentación, los errores frecuentes y el
+aprendizaje. Los gerentes hacen hincapié en las comunicaciones honestas y abiertas
+como una forma de crear confianza.
+3 La cultura fomenta el asumir riesgos, el cambio y el mejoramiento. Un valor básico
+es cuestionar el status quo. El constante cuestionamiento de los supuestos le abren
+las puertas a la creatividad y al mejoramiento. La cultura recompensa y elogia
+a los creadores de nuevas ideas, productos y procesos de trabajo. Para simbolizar
+la importancia de la asunción de riesgos, una cultura adaptable también puede
+recompensar a quienes fracasan, con el fin de aprender y crecer.
+Como se muestra en la figura 10.5, las culturas corporativas adaptables tienen
+valores y patrones de comportamiento diferentes de los de las culturas que no son
+constructivas.43 En las culturas constructivas, los gerentes se interesan en los clientes y
+empleados, así como en los procesos y procedimientos internos que producen un cambio
+útil. El comportamiento es flexible y los gerentes inician el cambio cuando es necesario,
+incluso si eso implica un riesgo. En las culturas que no son constructivas, los gerentes
+
+#BTBEPFO+PIO1,PUUFSZ+BNFT-)FTLFUU
+
+Corporate Culture and Performance /VFWB:PSL
+5IF'SFF1SFTT
+
+
+
+FIGURA 10.5
+$VMUVSBTDPOTUSVDUJWBT
+GSFOUFBOP
+DPOTUSVDUJWBT
+
+Culturas corporativas constructivas Culturas corporativas no constructivas
+Valores fundamentales: Los gerentes tienden a ser un tanto
+aislados, políticos y burocráticos. Como resultado, no
+cambian sus estrategias con rapidez para ajustarse a los
+cambios en sus entornos de negocios o para aprovecharlos.
+Comportamiento observable:
+Los gerentes se preocupan
+principalmente por sí mismos,
+su grupo de trabajo inmediato o
+algún producto (o tecnología)
+asociados con ese grupo de trabajo.
+Valoran el proceso administrativo
+ordenado y de reducción de riesgos
+considerablemente más que las
+iniciativas de liderazgo..
+
+Valores fundamentales: Los gerentes prestan una
+estrecha atención a todos los grupos de interés
+para la organización, en especial a los clientes, e
+inician el cambio cuando es necesario para servir
+a sus legítimos intereses, incluso si eso implica correr
+ciertos riesgos.
+Comportamiento observable:
+Los gerentes se interesan
+mucho en los clientes, los
+grupos de interés y los
+empleados. También valoran
+mucho a las personas y los
+procesos que pueden crear un
+cambio útil (por ejemplo, iniciativas
+de liderazgo a lo largo de
+la jerarquía de la gerencia).
+
+Capítulo 10: Cultura organizacional y valores éticos 405
+se interesan más en sí mismos o en sus proyectos especiales y sus valores desalientan la
+asunción de riesgos y el cambio. Por consiguiente, las culturas sólidas y saludables ayudan
+a las organizaciones a adaptarse al entorno externo, mientras que las culturas sólidas y
+no saludables pueden alentar a las organizaciones a seguir resueltamente la dirección
+errónea. Los fundadores de Menlo Innovations comenzaron su empresa con el objetivo
+de crear una cultura fuerte y constructiva.
+3JDIBSE4IFSJEBO
+
++BNFT(PFCFM
+
+3PCFSU4JNNT
+Z 5IPNBT .FMPDIF GVOEBSPO .FOMP *OOPWBUJPOT
+QBSB EFTBSSPMMBS TPGUXBSF B NFEJEB QBSB MBT PS
+HBOJ[BDJPOFT
+
+ QFSP VOP EF TVT QSJODJQBMFT PCKF
+
+UJWPTFSBDSFBSVOBDVMUVSBÙOJDBRVFBCBSDBSBMPTWBMPSFTEFMBJHVBMEBE
+
+FM USBCBKPFOFRVJQP
+
+FMBQSFOEJ[BKFZMBEJWFSTJÓO -PT GVOEBEPSFTEJDFORVF TFJOTQJSBSPOFOFMFOUPSOPEF USBCBKP
+DPMBCPSBUJWPZDSFBUJWPEFNPTUSBEPFO.FOMP1BSLEF5IPNBT&EJTPO
+
+/VFWB+FSTFZ
+
+i-BJOWFODJÓO
+
+EFMBGÃCSJDBu
+
+IBDFNÃTEFBÒPT
+&ONVDIBTFNQSFTBTEFTPGUXBSFMPTEFTBSSPMMBEPSFTUSBCBKBOTPMPT
+
+QFSPFO.FOMPTFWBMPSB
+MBDPMBCPSBDJÓOQPSFODJNBEFDVBMRVJFSPUSBDPTB5PEPFMNVOEPUSBCBKBFOVOBTBMBHSBOEFZ
+BCJFSUB
+TJOCBSSFSBTEFOJOHÙOUJQPQBSBMJNJUBSMBDPNVOJDBDJÓOZFMJOUFSDBNCJPEFJOGPSNBDJÓO
+-PTFNQMFBEPTUSBCBKBOFOQBSFKBT
+
+DPNQBSUJFOEPVOBTPMBDPNQVUBEPSBZQBTBOFMiSBUÓOuBUSÃT
+ZBEFMBOUFQBSBJOUFSDBNCJBSJEFBTZTPMVDJPOBSQSPCMFNBT$VBOEPIBZVOQBSEFJOGPSNFTTPCSF
+TVUSBCBKPFOMBTSFVOJPOFTEFMBNBÒBOB
+
+DBEBTPDJPUJFOFVOPEFMPTDVFSOPTEFVODBTDPEF
+WJLJOHP-BTQBSFKBTQFSNBOFDFOKVOUBTEVSBOUFVOBTFNBOBZMVFHPDBNCJBOUPEPBMPTOVFWPT
+TPDJPT-PTSFQSFTFOUBOUFTEFMDMJFOUFQBSBFMRVFTFEFTBSSPMMBFMTPGUXBSFUBNCJÊOTFNF[DMBO
+FO FM USBCBKP FO QBSFKBT DPO MPT EFTBSSPMMBEPSFT "MHVOPT QSPEVDUPT DPNQMFKPT QVFEFO UBSEBS
+BÒPTFOEFTBSSPMMBSTF
+
+ZMBWBSJFEBEEFTPDJPTZMBTUBSFBTEFBZVEBNBOUJFOFOMBFOFSHÎBBMUB
+BTÎ
+
+DPNPBQPSUBOVFWBTQFSTQFDUJWBTBMPTQSPZFDUPTFODPOTUBOUFFWPMVDJÓO
+-BDVSJPTJEBE
+
+MBTHBOBTEFBQSFOEFSZMBDBQBDJEBEEFiKVHBSCJFODPOMPTEFNÃTuTPOMBT
+DVBMJEBEFTRVF.FOMPRVJFSFFOTVTFNQMFBEPT&MPCKFUJWPEFDBEBQFSTPOBOPFTPCUFOFSMB
+SFTQVFTUB DPSSFDUB
+
+ IBDFS MB DPOFYJÓO DPSSFDUB
+
+ TFS FMNÃT JOUFMJHFOUF P TBCFSNÃT
+ TJOPNÃT
+CJFOTBDBSMPNFKPSEFMBQBSFKBEFVOP-BTQFSTPOBTRVFCVTDBOUSBCBKPTFEJWJEFOFOQBSFKBT
+ZTFMFTBTJHOBVOFKFSDJDJP
+
+FOUPODFTTPOFWBMVBEPTTPCSFRVÊUBOFGFDUJWPTTPOFOIBDFSRVF
+FMPUSPTPMJDJUBOUFTFWFBCJFO&TEJGÎDJMQBSBBMHVOBTQFSTPOBTBTFHVSBSTFEFRVFVODPNQFUJEPS
+QBSF[DBMPTVGJDJFOUFNFOUFCVFOPQBSBDPOTFHVJSFMUSBCBKPRVFEFTFB1FSPFO.FOMP
+TJVTUFE
+
+OPQVFEFIBDFSFTP
+
+BKVTUBSTFBMBDVMUVSBZMBJOTUBMBDJÓOEFMBFNQSFTBFTFTFODJBM.FOMPOP
+
+RVJFSFIÊSPFTJOEJWJEVBMFT$VBMRVJFSQFSTPOBRVFEJDFi:PFTUPZCJFO
+
+BTÎRVFWBNPTBIBDFSMP
+EF FTUBNBOFSBu OP EVSBSÃNVDIP UJFNQP i-B DPMBCPSBDJÓO DPOTUBOUF TJHOJGJDB RVF FTUBNPT
+DPOTUBOUFNFOUF USBOTGJSJFOEP DPOPDJNJFOUP B PUSPTu
+
+ EJDF 4IFSJEBO i.J FRVJQP DSFDF VOB
+QVMHBEBDBEBEÎBu-BDVMUVSBEF.FOMPIBTJEPVOBWFOUBKBDPNQFUJUJWBQBSBMBFNQSFTB
+MPRVF
+MFQFSNJUFBEBQUBSTFSÃQJEBNFOUFBVOFOUPSOPFODPOTUBOUFDBNCJPZTBUJTGBDFSMBTDBNCJBOUFT
+OFDFTJEBEFTUFDOPMÓHJDBTEFMPTDMJFOUFT
+
+JODMVZFOEPB%PNJOPT1J[[B
+
+5IPNTPO3FVUFST
+1GJ[FS
+
+
+/BUJPOXJEF'JOBODJBMZMB6OJWFSTJEBEEF.JDIJHBO44
+
+VALORES ÉTICOS Y RESPONSABILIDAD SOCIAL
+De los valores que constituyen la cultura de una organización, actualmente se considera
+que los éticos se encuentran entre los más importantes y han cobrado un renovado énfasis
+en la actual era de escándalos financieros y lapsos morales. Los difundidos escándalos
+contables corporativos y los errores éticos entre los líderes del negocio y el gobierno han
+saturado las noticias en años recientes. Un estudio de las noticias de negocios relacionadas
+con las 100 corporaciones más grandes de Estados Unidos encontró que un abrumador
+40% de ellas se ha visto involucrada recientemente en actividades que se puede considerar
+no éticas.45 Por ejemplo, el gigante con sede en Estados Unidos, News Corporation,
+
+Menlo
+Innovations
+EN LA PRÁCTICA
+
+406 Parte 5: Administración de procesos dinámicos
+propietaria de una cadena de periódicos, cadenas de televisión, estudios de cine y otros
+medios de comunicación de todo el mundo, estuvo bajo ataque generalizado tras el
+descubrimiento de que los periodistas en Londres habían hackeado las líneas telefónicas
+de las víctimas de asesinato, familias de soldados muertos, políticos y otros. El escándalo
+dio lugar a un flujo constante de revelaciones acerca de años de comportamiento de
+mala calidad, falta de ética, e incluso penal en los periódicos de la compañía, lo que
+reflejó una cultura corporativa que animó a cortar esquinas y a doblar las reglas.46 Y el
+problema no se limita a Estados Unidos. Los líderes de negocios en países como Alemania
+y Japón también se han visto envueltos en años recientes en un escándalo tras otro, que
+aparecen en los grandes titulares.47 Los altos directivos corporativos se encuentran bajo el
+escrutinio público como nunca antes, e incluso las pequeñas empresas están descubriendo
+la necesidad de darle más énfasis a la ética, con el fin de restaurar la confianza entre sus
+clientes y entre los miembros de la comunidad.
+Fuentes de los principios éticos individuales
+La ética se refiere al código de principios y valores morales que regula las conductas de
+una persona o de un grupo respecto a lo que es correcto o incorrecto. Los valores éticos
+establecen estándares de lo que es bueno o malo en el comportamiento y en la toma de
+decisiones.48 Los valores éticos son personales y únicos de cada individuo, aun cuando en
+cualquier grupo, organización o sociedad determinados hay muchas áreas de consenso
+acerca de lo que constituye un comportamiento ético. La figura 10.6 muestra las diversas
+fuentes de los principios éticos individuales.49 Cada persona es una creación de su época y
+su lugar en la historia. La cultura nacional, la herencia religiosa, los antecedentes históricos,
+etcétera, conducen al desarrollo de la moralidad de la sociedad o el punto de vista de la
+sociedad de lo que es correcto e incorrecto. La moralidad de la sociedad a menudo se
+
+FIGURA 10.6
+'VFOUFTEFMPTQSJODJQJPTÊUJDPTZMBTBDDJPOFTJOEJWJEVBMFT
+
+(SBDJBTB4VTBO)5BGUZ+VEJUI8IJUFQPSQSPQPSDJPOBSOPTFTUBGJHVSB
+
+CBTBEBFOTVBSUÎDVMPi&UIJDT&EVDBUJPO6TJOH*OEVDUJWF3FBTPOJOHUP%FWFMPQ
+
+*OEJWJEVBM(SPVQ
+0SHBOJ[BUJPOBM
+BOE(MPCBM1FSTQFDUJWFTu
+
++PVSOBMPG.BOBHFNFOU&EVDBUJPO
+
+OÙN PDUVCSFEF
+
+
+Historia
+Religión, filosofía,
+entorno geográfico, nacionalidad,
+sociedad, cultura
+
+Entorno local
+Organizaciones
+Regiones geográficas/Comunidad
+Familia/Clan
+
+Ética y acciones individuales
+Sociedad
+Normas y valores
+de la sociedad
+Leyes, códigos
+y reglamentos
+La historia conduce al desarrollo
+de la moralidad de la sociedad
+
+La sociedad modela el entorno local
+
+El entorno local modela el comportamiento individual
+
+Capítulo 10: Cultura organizacional y valores éticos 407
+refleja en normas de comportamiento y valores acerca de lo que tiene sentido para una
+sociedad donde hay orden. Algunos principios se codifican en leyes y regulaciones, como
+las leyes que prohíben conducir en estado de ebriedad, el robo o el asesinato.
+Esas leyes, así como las normas y los valores no escritos de la sociedad, modelan el
+entorno local donde actúa cada individuo, como la comunidad, la familia y el lugar de
+trabajo de una persona. Los individuos absorben las creencias y los valores de su familia,
+su comunidad, su cultura, su sociedad, su comunidad religiosa y su entorno geográfico, a
+menudo descartando algunos e incorporando otros a sus estándares éticos personales. De
+manera que la postura ética de cada persona es una mezcla de sus antecedentes históricos,
+culturales, sociales y familiares y de sus influencias, como se muestra en la figura 10.6.
+Es importante estudiar la ética individual, ya que implica una acción individual, no
+importa si se trata de una decisión de actuar o no contra las fechorías de otros. En las
+organizaciones, la postura ética de un individuo se puede ver afectada por los compañeros,
+los subordinados y los supervisores, así como por la cultura organizacional. La cultura
+organizacional a menudo tiene una profunda influencia sobre las elecciones individuales
+y puede apoyar y alentar las acciones éticas, o promover un comportamiento no ético y
+socialmente irresponsable.
+Ética gerencial
+Muchos de los recientes escándalos en las noticias están relacionadas con personas y
+corporaciones que violaron la ley. Los ejecutivos de Tyson Foods están en el banquillo
+por autorizar supuestamente el pago de sobornos en México, por ejemplo, lo que es una
+violación de la ley de Estados Unidos.50 Pero es importante recordar que las decisiones
+éticas van mucho más allá de las conductas reguladas por la ley.51 El estado de derecho se
+origina de una serie de principios y reglamentos codificados aceptados en la sociedad y
+cuyo cumplimiento se puede exigir ante los tribunales.52
+En la figura 10.7 se muestra la relación entre los estándares éticos y los requerimien
+tos legales. Los estándares éticos son aplicables en su mayor parte al comportamiento
+que no está cubierto por la ley y el estado de derecho es aplicable a conductas que no
+necesariamente están cubiertas por estándares éticos. Las leyes actuales a menudo reflejan
+criterios morales combinados, pero no todos los criterios morales se codifican en leyes.
+La moralidad de ayudar a una persona que se está ahogando, por ejemplo, no está
+especificada por la ley y el hecho de conducir por el lado derecho de la carretera no tiene
+una base moral; pero en los actos como un robo o un asesinato, las reglas y los estándares
+
+FIGURA 10.7
+3FMBDJPOFTFOUSFFM
+FTUBEPEFEFSFDIPZMPT
+FTUÃOEBSFTÊUJDPT
+
+'VFOUF-B3VF5POF)PTNFS
+
+The Ethics of Management
+
+BFE )PNFXPPE
+*MM*SXJO
+
+
+Estándares
+éticos
+
+Requerimientos
+legales
+
+408 Parte 5: Administración de procesos dinámicos
+morales se traslapan. Muchas personas creen que si usted no quebranta la ley, entonces
+se está comportando de forma ética, pero eso no siempre es cierto. Muchas conductas no se
+han codificado y los gerentes deben ser sensibles a las normas y los valores que están
+surgiendo acerca de esos aspectos. Por ejemplo, antes de la debacle de Wall Street, que
+surgió debido a millones de préstamos hipotecarios de alto riesgo, no había leyes que
+impidieran a las empresas hipotecarias la prestación de lo que algunos han llamado
+“préstamos ninja” (sin ingresos, sin trabajo, sin activos).53 Sin embargo, la ética gerencial
+sostendría que no es ético dar préstamos a las personas a las que muy probablemente no
+se les pueden permitir los pagos con el fin de aumentar su volumen de préstamos.
+La ética gerencial consiste en los principios que guían las decisiones y el comportamiento
+de los gerentes en lo concerniente a si están en lo cierto o están equivocados. Los siguientes
+son algunos ejemplos de la necesidad de una ética gerencial:54
+r -PTBMUPTEJSFDUJWPTDPOTJEFSBOQSPNPWFSBVOHFSFOUFEFWFOUBTRVFFTUÃQSPHSFTBOEP
+y que produce 70 millones de dólares al año y ha abierto nuevos mercados en
+lugares como Brasil y Rusia, que son importantes para el crecimiento internacional.
+Sin embargo, las empleadas se han quejado durante años de que el gerente abusa
+verbalmente de ellas, cuenta chistes ofensivos y hace rabietas si ellas no hacen
+exactamente lo que él dice.
+r "MBHFSFOUFEFVOBUJFOEBEFQSPEVDUPTQBSBTBMPOFTEFCFMMF[BMFJOGPSNBORVFTVT
+vendedoras y ella recibirán considerables bonos por vender un número específico de
+cajas de un nuevo producto, una solución para ondulado permanente que cuesta casi
+el doble del que por lo general utiliza la mayoría de los clientes de su tienda. Les
+ordena a sus vendedoras que guarden el producto antiguo en la parte posterior y les
+informen a los clientes que ha habido una demora en la entrega.
+r " VO GBCSJDBOUF FTUBEPVOJEFOTF RVF PQFSB FO FM FYUSBOKFSPMFQJEJFSPO RVF IJDJFSB
+pagos en efectivo (un soborno) a los funcionarios del gobierno y le indicaron que eso
+era congruente con las costumbres locales, a pesar de que es ilegal en Estados Unidos.
+Como lo ilustran estos ejemplos, la ética trata de la toma de decisiones. Los gerentes
+hacen elecciones todos los días acerca de si deben ser honestos o deshonestos con los
+clientes y proveedores, de si tratan a los empleados con respeto o con desdén y acerca de si
+deben ser buenos o malos ciudadanos corporativos. Algunos aspectos son extremadamente
+difíciles de resolver y a menudo representan dilemas. Un dilema ético surge en una situación
+concerniente a lo correcto o incorrecto, en la que hay algunos valores en conflicto.55 En
+esas situaciones no se puede identificar claramente qué es lo correcto o lo incorrecto. Por
+ejemplo, para una vendedora en una tienda de productos para salones de belleza, el valor
+en conflicto está entre ser honesta con los clientes y apegarse a las expectativas de su jefe.
+El gerente de manufactura se puede sentir indeciso entre respetar y seguir las costumbres
+locales en un país extranjero o apegarse a las leyes estadounidenses concernientes a los
+sobornos. En ocasiones, cada elección o comportamiento alterno parece indeseable. Los
+dilemas éticos no son fáciles de resolver, pero los altos directivos pueden ayudar al proceso
+estableciendo valores organizacionales que proporcionen a las personas algunas pautas
+para tomar la mejor decisión desde un punto de vista moral.
+Responsabilidad social corporativa
+La noción de la responsabilidad social corporativa es una extensión de la idea de la ética
+gerencial y se refiere a la obligación de la gerencia de hacer elecciones y emprender una
+acción de manera que la organización contribuya al bienestar de todos los grupos de
+interés de la organización, como empleados, clientes, accionistas, la comunidad y la
+sociedad en general.56 Del total de empresas que participaron en la encuesta de McKinsey
+& Company en 2008, 90% respondió que estaban haciendo más de lo que hacían cinco
+años antes para incluir los aspectos de la responsabilidad social en sus estrategias básicas.57
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+Asumir el control de
+los valores éticos en la
+organización y hacer
+un compromiso con la
+responsabilidad social
+corporativa. Reconocer
+que la ética no es lo
+mismo que apegarse
+a la ley y ayudar a las
+personas a aprender la
+
+forma de tomar deci-
+siones éticas.
+
+Portafolios
+
+Capítulo 10: Cultura organizacional y valores éticos 409
+Antes se consideraba que la responsabilidad social corporativa era de la incumbencia
+de pequeñas empresas fuera de lo común, como Patagonia o The Body Shop, pero se
+ha adentrado firmemente en la corriente principal de pensamiento y el comportamiento
+organizacionales. Ernst & Young contribuye a que sus empleados proporcionen servicios
+contables gratuitos a organizaciones sin fines de lucro o a pequeñas empresas en todo
+el mundo que están luchando por salir adelante, pagando además sus sueldos y gastos
+de viaje. Whirlpool dona un refrigerador y el rango de cada casa construida para Haitat
+for Humanity en Estados Unidos. PepsiCo se comprometió a retirar voluntariamente las
+bebidas azucaradas con altas calorías de las escuelas en más de 200 países en 2012. Las
+corporaciones gigantes, desde WalMart hasta General Electric, han anunciado ambiciosas
+metas concernientes a la responsabilidad ambiental. Más de mil empresas en todo el
+
+mundo han publicado reportes proclamando su preocupación por los empleados, el am-
+biente y sus comunidades locales.58
+
+Además, muchas compañías, incluidas GE, Nestlé, IBM, PepsiCo y Johnson & Johnson,
+llevan a cabo estrategias y oportunidades de negocio que abarcan un modelo de valor
+compartido. El valor compartido se refiere a las políticas y prácticas de una organización
+que mejoran el éxito económico de una empresa y promueven las condiciones económicas
+y sociales de las comunidades en las que opera la compañía.59 Hindustan Unilever, por
+ejemplo, utiliza un sistema de distribución directa al hogar para sus productos de higiene
+en algunas partes de la India, donde las mujeres de escasos recursos en pueblos de menos
+de 2,000 personas obtienen microcréditos y capacitación para comenzar sus propias
+pequeñas empresas. El sistema beneficia a las comunidades por dar a las mujeres las
+habilidades y oportunidades que a veces duplican sus ingresos familiares, así como por la
+reducción de la propagación de la enfermedad mediante la oferta de productos de higiene
+en áreas aisladas. También beneficia a la empresa mediante la ampliación de su mercado y
+la construcción de su marca en zonas de difícil acceso. El proyecto representa actualmente
+el 5 por ciento de los ingresos de Hindustan Unilever en la India. 60
+
+EVALÚE
+SU
+RESPUESTA
+
+Ser ética y socialmente responsable no sólo es lo correcto que debe hacer una
+empresa; es un aspecto crítico para el éxito del negocio.
+RESPUESTA: De acuerdo.%FTQVÊTEFBÒPTEFFTDÃOEBMPT
+
+MPTFNQMFBEPTZFM
+QÙCMJDPFTUÃOFYJHJFOEPVOFOGPRVFNÃTÊUJDPZTPDJBMNFOUFSFTQPOTBCMFBMPT
+OFHPDJPT5BOUPMPTOFHPDJPTDPNPMBTPSHBOJ[BDJPOFTTJOGJOFTEFMVDSPZMBT
+HVCFSOBNFOUBMFTCVTDBOGPSNBTEFSFTUBVSBSMBDPOGJBO[B6OBOVFWBHFOFSBDJÓO
+EFQFSTPOBTRVFCVTDBOUSBCBKPUPNBFODVFOUBMBSFTQPOTBCJMJEBETPDJBMEFVOB
+FNQSFTBDVBOEPDPOTJEFSBOPGFSUBTEFUSBCBKP
+
+EFNBOFSBRVFMBTFNQSFTBTRVF
+
+RVJFSFODPOUSBUBSBMPTNFKPSFTFNQMFBEPTFTUÃOQSFTUBOEPBUFODJÓO
+2
+
+¿Reditúa ser bueno?
+¿Por qué tantas empresas están adoptando la responsabilidad social corporativa? Por un
+lado, los empleados, los clientes, los inversionistas y otras personas interesadas exigen cada
+vez más que las empresas se comporten de manera socialmente responsable. La gente presta
+más atención que nunca a lo que hacen las organizaciones, y los gerentes reconocen que el
+ser un buen ciudadano corporativo puede mejorar la reputación de su empresa e incluso
+su rentabilidad.61 En Medio Oriente, el 75 por ciento de los líderes encuestados creen
+que la responsabilidad social corporativa ayuda a atraer nuevas inversiones, aumentar la
+cuota de mercado y obtener nuevos mercados.62 Un estudio realizado por investigadores
+del MIT, la Universidad Estatal de Michigan y el IE Business School de Madrid indica
+que tener una buena reputación para la responsabilidad social corporativa también puede
+
+410 Parte 5: Administración de procesos dinámicos
+ayudar a las empresas como escudo contra los efectos nocivos de la publicidad negativa.
+Es decir, los clientes están más dispuestos a dar a una compañía el beneficio de la duda
+cuando se tiene una sólida reputación de responsabilidad social corporativa, en lugar de
+aceptar de forma automática que los informes negativos son ciertos.63
+La relación de la ética y la responsabilidad social de una organización con su
+desempeño interesa tanto a los gerentes como a los eruditos organizacionales. Los
+estudios han proporcionado diversos resultados, pero en general han encontrado que
+existe una relación positiva entre un comportamiento ético y socialmente responsable
+y los resultados financieros.64 Por ejemplo, un estudio del desempeño financiero de
+las grandes corporaciones estadounidenses que están consideradas como “los mejores
+ciudadanos corporativos”, reveló que tienen tanto reputación como un desempeño
+financiero superiores.65 De manera similar, Governance Metrics International, una agencia
+calificadora independiente del ejercicio del poder corporativo, encontró que las acciones
+de las empresas que se administran conforme a principios más desinteresados tienen un
+
+desempeño mejor de las que están administradas de forma egoísta. Las empresas con ca-
+lificaciones más altas también superaron el desempeño de las empresas que obtuvieron una
+
+calificación inferior, en medidas como rendimiento sobre los activos, sobre la inversión y
+sobre el capital.66
+Como se mencionó antes en el capítulo, el éxito organizacional a largo plazo depende
+en gran parte del capital social, lo que significa que las empresas necesitan crearse una
+reputación de honestidad, justicia y de hacer lo correcto. Hay evidencia de que las personas
+prefieren trabajar para empresas que muestran un alto nivel de ética y responsabilidad
+social corporativa, de manera que esas firmas pueden atraer y retener a empleados de
+alta calidad.67 Sarah Antonette dice que se unió a PNC Financial Services en vez de a
+otras dos empresas que le ofrecían trabajo, debido al enérgico programa de voluntarios
+para los empleados de PNC.68 Una vicepresidenta de Timberland dice que ha rechazado
+ofertas lucrativas de otras corporaciones debido a que prefiere trabajar en una empresa
+que coloca la ética y la responsabilidad social por encima de sólo ganar utilidades.69 Y una
+encuesta realizada entre jóvenes de 13 a 25 años de edad reveló que 79% dice que quiere
+trabajar para una empresa que se interese en cómo afecta o contribuye a la sociedad.70
+Los clientes también prestan atención a la ética y la responsabilidad social de una
+empresa. Un estudio realizado por Walker Research indica que, si el precio y la calidad
+son iguales, las dos terceras partes de las personas dicen que cambiarían de marca para
+hacer negocios con una empresa que tenga un alto compromiso con la ética.71 Otra serie
+de experimentos realizados por Remi Trudel y June Cotte, de la University of Western
+Ontario’s Ivey School of Business, encontró que los consumidores estaban dispuestos a
+pagar ligeramente más por productos cuando decía que se habían fabricado utilizando
+altos estándares éticos.72
+Las empresas que colocan la ética en segundo lugar, a favor de un crecimiento rápido
+y utilidades a corto plazo, finalmente sufren las consecuencias. Para ganarse y conservar
+la confianza de empleados, clientes, inversionistas y el público general, las organizaciones
+deben colocar la ética y la responsabilidad social en primer lugar.
+
+CÓMO DAN FORMA LOS LÍDERES A LA CULTURA
+Y LA ÉTICA
+En un estudio sobre la política y la práctica de la ética en empresas éticas exitosas
+como Johnson & Johnson y General Mills, ningún punto surgió con más claridad que
+el rol de la alta gerencia para proporcionar compromiso, liderazgo y ejemplos para un
+comportamiento ético.73 El CEO y otros altos directivos deben estar comprometidos con
+valores éticos específicos y proporcionar un constante liderazgo para cuidar y renovar
+los valores. Los valores se pueden comunicar en varias formas, discursos, publicaciones
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+Actuar como líder
+de la cultura interna
+y los valores éticos
+que son importantes
+para la organización.
+Tratar a las personas
+con justicia, respetar
+y hacer que otros
+respeten los altos
+estándares éticos y
+comunicar una visión
+de colocar la ética
+antes que los intereses
+a corto plazo. Recordar
+que las acciones
+hablan más que las
+palabras.
+Portafolios
+
+Capítulo 10: Cultura organizacional y valores éticos 411
+de la empresa, declaraciones de la política y, en especial, acciones personales. La gente
+sigue y modela lo que ve que hacen los administradores. Si los directivos mienten y
+transgreden las reglas, también lo harán los empleados. Los líderes en el nivel superior
+son responsables de crear y mantener una cultura que haga hincapié en la importancia
+del comportamiento ético para todos y cada uno de los empleados. Cuando Vic Sarni era
+CEO de PPG Industries, a menudo decía que era el director de ética de la empresa. Sarni
+no creía en los departamentos con un personal especial para investigar las quejas éticas; en
+vez de eso, él personalmente estaba al frente del comité de ética de la empresa. Eso enviaba
+un poderoso mensaje simbólico de que la ética era importante en la organización.74 Sin
+embargo, es importante recordar que los empleados a menudo están bajo la influencia de
+los gerentes y supervisores con quienes trabajan de cerca, más que de los líderes distantes
+en el nivel superior. Los gerentes de cualquier nivel de la organización deben adoptar los
+valores éticos y ser un modelo de ellos. Los programas formales de ética no tienen ningún
+valor si los líderes no están a la altura de los altos estándares del comportamiento ético.75
+Las siguientes secciones examinan la forma en que los gerentes señalan e implementan
+valores por medio del liderazgo, así como por medio de los sistemas formales de la
+organización.
+Liderazgo basado en los valores
+El sistema de valores implícito de una organización no se puede administrar de forma
+tradicional. Por ejemplo, el hecho de dar una orden autoritaria tiene muy poco o ningún
+impacto sobre el sistema de valores de una organización. Los valores organizacionales
+se desarrollan y se refuerzan principalmente por medio de un liderazgo basado en los
+valores, una relación entre un líder y sus seguidores que se basa en valores compartidos e
+interiorizados que el líder aconseja y actúa.76 Sanjiv Das, presidente y director ejecutivo de
+CitiMortgage, representa las cualidades de un líder basado en valores.
+/BDJEP FOMB*OEJB
+4BOKJW%BT
+ RVJFO BTVNJÓ FM
+DBSHP EF QSFTJEFOUF Z DPOTFKFSP EFMFHBEP EF
+$JUJ.PSUHBHFFOKVMJPEFFONFEJPEFVOB
+DSJTJTEFWJWJFOEB
+
+UFOÎBEPTPCKFUJWPTQSJODJQBMFT
+
+DVBOEPFNQF[ÓFMUSBCBKP 
+
+FMFWBSMBNPSBMEF
+
+
+ FNQMFBEPT RVF HFTUJPOBSPO MB BHPOÎB EF MB DSJTJT
+
+ KVOUP DPO MB SFEVDDJÓO EF SFTQFUP
+
+QÙCMJDPQPSTVJOEVTUSJBZ 
+
+FWJUBSRVFMBTQFSTPOBTQFSEJFSBOTVTIPHBSFT&OTVNFOUF
+MPT
+EPTPCKFUJWPTFTUBCBOSFMBDJPOBEPT"MNBOUFOFSBMQFSTPOBMDPODFOUSBEPFOMBBZVEBRVFQPEÎB
+PGSFDFSQBSBBMJWJBSMBQSFTJÓOGJOBODJFSBEFMBTQFSTPOBTBUSBQBEBTFOFMDBPTFDPOÓNJDP
+%BT
+
+BZVEÓBMPTFNQMFBEPTBFODPOUSBSQSPQÓTJUP
+
+TJHOJGJDBEPZBVUPSFTQFUP1BSB%BT
+
+FMOFHPDJPOP
+
+FTTÓMPDVFTUJÓOEFEJOFSPTFUSBUBEFSFMBDJPOFTNVUVBNFOUFSFTQFUVPTBT
+"MJHVBMRVFNVDIBTFNQSFTBT
+
+$JUJ.PSUHBHFUSBCBKÓDPOMPTQSFTUBUBSJPTRVFQFSEJFSPOWBSJPT
+
+QBHPTQBSB SFFTUSVDUVSBSTVTQSÊTUBNPT4JOFNCBSHP
+
+$JUJ GVFNÃTMFKPTRVFNVDIPTCBODPT
+%BT GVF QJPOFSPFO VO QSPHSBNBEF QSJNFSBEF TV UJQP QBSB CBKBS UFNQPSBMNFOUFMPT QBHPT Z
+SFOVODJBSBMPTJOUFSFTFTZMBTTBODJPOFTQBSBMPTEFVEPSFTRVFQFSEJFSPOTVTQVFTUPTEFUSBCBKP
+"EFNÃT
+JNQMFNFOUÓVOQSPHSBNBQBSBMMFHBSQSFWFOUJWBNFOUFBVOPT
+
+QSPQJFUBSJPTEF
+
+WJWJFOEBT RVF OP TF IBCÎBO SFUSBTBEP FO TVT QBHPT
+
+ QFSP RVF QPEÎBO DBFS TJO BZVEB i&TUPT
+
+QSPQJFUBSJPTBNFOVEPTFBWFSHÛFO[BOPQSFPDVQBOEFNBTJBEP
+
+PTJNQMFNFOUFOPTBCFODÓNP
+
+QFEJSBZVEBu
+
+EJKP%BT­MDSFFRVFMBJOUFSWFODJÓOUFNQSBOBFTVOBEFMBTNFKPSFTNBOFSBT
+
+EF SFEVDJSMB UBTB EF FKFDVDJÓOEF VOB IJQPUFDB
+
+NBOUFOFS BMBHFOUF FO TVTDBTBT
+ BZVEBS B
+
+DPNVOJEBEFTBMVDIBSFJNQVMTBSMBFDPOPNÎB
+%BTEJDFRVFTVFOGPRVFEFMJEFSB[HPTFCBTBFOMPTWBMPSFTFTQJSJUVBMFTRVFBQSFOEJÓBM
+DSFDFS FO%FMIJ
+
+ UBMFT DPNPNBOUFOFS FM QSPQÓTJUP Z MB JOUFHSJEBE FO MPTNPNFOUPT EJGÎDJMFT Z
+BZVEBSBMPTEFNÃTFOMVHBSEFUSBUBSEFBERVJSJSNÃTCJFOFTNBUFSJBMFTQBSBVOPNJTNPi&M
+EJHP<BMPTFNQMFBEPT>TPOMPTDMJFOUFT$BEBEÎB
+
+NJOFHPDJPFTNBOUFOFSMPTFOTVTDBTBT
+OP
+
+JNQPSUBRVÊTVDFEB.FSFNPOUBBMPTWBMPSFTDPORVFNFDSJÊu
+
+Sanjiv Das,
+CitiMortgage
+EN LA PRÁCTICA
+
+412 Parte 5: Administración de procesos dinámicos
+Claramente, Sanjiv Das se enfrenta a una situación de liderazgo fuerte, y CitiMortgage,
+al igual que muchas otras empresas en la industria financiera y de vivienda, está luchando
+por sobrevivir. Sin embargo, el liderazgo basado en valores de Das ha tenido una influencia
+positiva y significativa tanto en la moral de los empleados como en los resultados
+empresariales. Su acercamiento a los negocios está ayudando a aliviar la ansiedad y la
+sensación de fracaso que ha minado la moral de los empleados.
+El general Norman Schwarzkopf dijo una vez: “El liderazgo es una combinación de
+estrategia y carácter. Si tiene que estar sin uno, que sea sin la estrategia”.78 Los buenos
+líderes conocen cada uno de sus actos y la declaración tiene un impacto en la cultura
+y en los valores. Los empleados aprenden acerca de los valores, creencias y objetivos
+que observan en los administradores, así como los estudiantes aprenden qué temas son
+importantes para los profesores en un examen y cómo conseguir una buena calificación
+por parte de los profesores. Las acciones hablan más que las palabras, así los líderes que
+se basan en valores que están “al pie de su palabra”.79 “Sólo quiero decir que lo ético no
+es muy útil”, dijo Charles O. Holliday Jr., ex presidente y CEO de DuPont. “Todos los días
+hay que ganarse la confianza por lo que haces”.80
+La figura 10.8 resume algunas de las características que definen a los líderes basados
+en valores.81 Este tipo de líderes tratan a los demás con atención, son útiles y apoyan a
+los demás y se esfuerzan por mantener relaciones interpersonales positivas. Tratan a todos
+con justicia y respeto. Los líderes basados en valores aceptan los errores y las fallas de
+los demás y nunca son condescendientes. Se apegan a altos estándares éticos, se esfuerzan
+continuamente para ser honestos, humildes y dignos de confianza y para ser éticos de
+forma congruente, tanto en su vida pública como privada. Sin embargo, están abiertos
+para hablar de sus propias fallas éticas y aceptan la responsabilidad de ellas.
+Los líderes basados en los valores también articulan y comunican claramente una
+visión rígida de altos estándares éticos en la organización, e institucionalizan la visión
+haciéndose responsables ellos mismos y haciendo responsables a los demás y colocando
+
+FIGURA 10.8
+$BSBDUFSÎTUJDBTEFMPT
+MÎEFSFTCBTBEPTFO
+WBMPSFT
+
+'VFOUF#BTBEBFO(BSZ8FBWFS
+
+-JOEB,MFCF5SFWJÒPZ#SBEMFZ"HMF
+
+i4PNFCPEZ*-PPL6Q5P&UIJDBM3PMF.PEFMTJO
+
+0SHBOJ[BUJPOTu
+Organizational Dynamics
+OÙN 
+
+El líder basado
+en valores
+
+Acciones y
+expectativas personales
+Apegarse a altos
+estándares éticos
+Luchar por la honestidad, la
+humildad y la integridad
+Aceptar la responsabilidad
+de las fallas éticas
+
+Liderazgo
+organizacional
+Articular y comunicar la
+visión ética
+Hacer responsables a las
+personas
+Colocar la ética por
+encima de los intereses
+a corto plazo
+
+Justicia con
+los demás
+Tratar a todos de forma
+equitativa
+Nunca ser condescendiente
+Aceptar los errores de los
+demás
+Tratar a las personas
+con atención
+Ser útil y amable
+Apoyar a los demás
+Mantener relaciones
+positivas
+Conductas
+interpersonales
+
+Capítulo 10: Cultura organizacional y valores éticos 413
+la ética por encima de los intereses a corto plazo, ya sea personales o de la empresa.
+Refuerzan continuamente los valores éticos por medio de conductas cotidianas, rituales,
+ceremonias y símbolos, así como por medio de los sistemas y las políticas organizacionales.
+Estructura y sistemas formales
+Otra serie de herramientas que pueden utilizar los líderes para modelar los valores éticos
+y culturales son la estructura y los sistemas de la organización. Esos sistemas pueden ser
+especialmente efectivos para influir en la ética gerencial.
+estructura. Los altos directivos pueden asignar la responsabilidad de los valores éticos a
+una posición específica. Esto no sólo les asigna el tiempo y la energía de la organización
+a los problemas, sino que simboliza para todos la importancia de la ética. Un ejemplo es un
+comité de ética, que es un equipo transfuncional de ejecutivos que supervisan la ética de la
+empresa. El comité proporciona resoluciones acerca de aspectos éticos dudosos y asume
+la responsabilidad de disciplinar a quienes actúan mal. Al nombrar a altos directivos para
+que presten sus servicios en el comité, la organización señala la importancia de la ética.
+En la actualidad, muchas organizaciones establecen departamentos de ética que
+administran y coordinan todas las actividades éticas corporativas. Al frente de esos
+departamentos hay un director de ética, un alto directivo de la empresa que supervisa
+todos los aspectos de la ética, como establecer y comunicar ampliamente los estándares
+éticos, instituir programas de capacitación en ética, supervisar la investigación de los
+problemas éticos y aconsejar a los gerentes acerca de los aspectos éticos de las decisiones
+corporativas.82 Hace una década, el título de director de ética era casi desconocido,
+pero los recientes problemas éticos y legales han creado una creciente demanda de esos
+especialistas.
+Las oficinas de ética en ocasiones también funcionan como centros de consejería para
+ayudar a los empleados a resolver delicados dilemas éticos. Se enfocan tanto en ayudar a
+los empleados a tomar las decisiones correctas como en disciplinar a quienes actúan mal.
+La mayoría de las oficinas de ética cuenta con líneas directas de ética confidenciales, que los
+empleados pueden utilizar para buscar guía, así como para reportar un comportamiento
+ético dudoso. Una organización llama a su línea directa “Línea guía”, para hacer hincapié
+en su uso como una herramienta para tomar decisiones éticas, así como para reportar
+fallas.83 Según Gary Edwards, presidente del Ethics Resource Center, entre 65% y 85%
+de las llamadas a líneas directas en las organizaciones a las que asesora son llamadas
+solicitando un consejo acerca de aspectos éticos. La “Linea abierta” de Northrup
+Grumman recibe alrededor de 1 400 llamadas al año, de las cuales sólo la cuarta parte
+son reportes de infracciones.84
+Mecanismos de denuncia. Una línea de urgencia confidencial también es un mecanismo
+importante para que los empleados expresen sus preocupaciones acerca de las prácticas
+éticas. Hacer responsables a las organizaciones depende hasta cierto grado de los individuos
+dispuestos a hablar si tienen sospechas de actividades ilegales, peligrosas o no éticas. La
+denuncia es la divulgación por parte de los empleados de prácticas ilegales, inmorales,
+peligrosas o no éticas de la organización.85 A medida que se incrementan los problemas
+éticos en el mundo corporativo, muchas empresas buscan formas de proteger la denuncia.
+Además, se están incrementando las llamadas que solicitan mayor protección legal para
+quienes reportan actividades de negocios ilegales o no éticas.86 Cuando no hay medidas
+de protección, quienes denuncian sufren las consecuencias y la empresa puede continuar
+con sus prácticas no éticas o ilegales. Por ejemplo, Matthew Lee, un ex vicepresidente
+senior de la división de contabilidad de Lehman Brothers, perdió su trabajo apenas unas
+semanas después de que expresó su preocupación por cómo la empresa escondía riesgos
+temporalmente “aparcados” de $50 mil millones en activos de préstamos de riesgo fuera
+de su balance. Lawrence McDonald, un ex comerciante de Lehman, que escribió un libro
+sobre el colapso de la empresa gigante, dice que Lehman despidió o dejó de lado a los
+
+Como gerente de una
+organización, tenga
+en mente estos
+lineamientos:
+Utilizar los sistemas
+
+formales de la organi-
+zación para implemen-
+tar los valores cultura-
+les y éticos deseados.
+
+Esos sistemas incluyen
+un comité de ética,
+un director de ética,
+mecanismos de
+denuncia, un código de
+ética y programas de
+capacitación en ética.
+Portafolios
+
+414 Parte 5: Administración de procesos dinámicos
+denunciantes, lo que permitió a la empresa continuar su comportamiento arriesgado y
+poco ético de forma rutinaria.87
+Numerosos gobiernos, como los de Estados Unidos y Japón, han aprobado leyes
+orientadas a proteger a quienes denuncian. Pero eso no es suficiente. Las empresas
+instruidas se esfuerzan para crear un entorno y una cultura donde los empleados se
+sientan en libertad de hacer notar los problemas y los gerentes emprendan una acción
+rápida para abordar las preocupaciones acerca de actividades ilegales o que no son éticas.
+Las organizaciones pueden considerar a quienes denuncian como un beneficio para la
+empresa, ya que ayudan a prevenir la clase de desastres como los que afectaron a empresas
+como Enron, Bear Stearns, Countrywide, News Corporation y Lehman Brothers.
+Código de ética. Un código de ética es una declaración formal de los valores de la
+empresa concernientes a la ética y la responsabilidad social; les aclara a los empleados qué
+representa la empresa y sus expectativas respecto al comportamiento de los empleados. El
+código de ética en Lockheed Martin, por ejemplo, declara que la organización “pretende
+establecer el estándar para un comportamiento ético” mediante el apego a los valores
+de honestidad, integridad, respeto, confianza, responsabilidad y una actitud cívica
+positiva. El código especifica los tipos de comportamiento que se espera que honren esos
+valores y alienta a los empleados para utilizar los recursos disponibles de la empresa
+para ayudar a hacer elecciones y tomar decisiones éticas.88 Los códigos de ética pueden
+cubrir una amplia gama de aspectos, como declaraciones de los valores que le sirven
+de guía a la empresa; pautas relacionadas con aspectos como la seguridad en el lugar
+de trabajo, la seguridad de la información privada o la privacidad de los empleados; y
+los compromisos con la responsabilidad ambiental, la seguridad del producto y otros
+aspectos de preocupación para los grupos de interés. El banco suizo UBS AG, por ejemplo,
+desarrolló un fuerte código de ética que aborda cuestiones tales como la delincuencia
+financiera, la competencia y la confidencialidad, e incluye un lineamiento de sanciones
+contra los empleados que violen el código. El código prohíbe expresamente al personal
+ayudar a los clientes a hacer trampa en sus impuestos, en respuesta a una investigación
+de daño en el uso de cuentas en el extranjero. En un paso importante, el nuevo código
+prohíbe las represalias por los gerentes a los empleados que reportan mala conducta.89
+Algunas empresas utilizan declaraciones más amplias de los valores, en las que la ética
+es una parte. Esas declaraciones definen los valores éticos, así como la cultura corporativa
+y contienen un lenguaje acerca de la responsabilidad de la empresa, la calidad del producto
+y el trato a los empleados. Una declaración formal de los valores puede servir como un
+documento organizacional fundamental que define lo que representa la organización y
+aclara las conductas y elecciones éticas esperadas.90
+
+Aun cuando los códigos de ética y las declaraciones de los valores escritos son impor-
+tantes, es esencial que los altos directivos apoyen y refuercen los códigos por medio de sus
+
+acciones, como recompensas por el cumplimiento y disciplina por las violaciones. De lo
+contrario, un código de ética no es nada más que un trozo de papel. De hecho, un estudio
+
+La única y mejor forma de asegurarse de que una organización se mantenga
+en un terrero ético sólido es tener un enérgico código de ética y cerciorarse de
+que todos los empleados estén familiarizados con sus lineamientos.
+RESPUESTA: En desacuerdo. &MIFDIPEFUFOFSVOFOÊSHJDPDÓEJHPEFÊUJDB
+QVFEFTFSVOBQBSUFJNQPSUBOUFFOMBDSFBDJÓOEFVOBPSHBOJ[BDJÓOÊUJDB
+QFSPMBT
+BDDJPOFTEFMPTMÎEFSFTTPONÃTQPEFSPTBTQBSBEFUFSNJOBSTJMBTQFSTPOBTFTUÃOB
+MBBMUVSBEFMPTFTUÃOEBSFTÊUJDPT4JMPTMÎEFSFTTPOEFTIPOFTUPT
+
+OPUJFOFOQSJODJ
+QJPTPTPOJOTFOTJCMFTZDSFBOVOBDVMUVSBRVFBQPZBPJHOPSBFTBTDPOEVDUBTFOMPT
+EFNÃT
+MPTFNQMFBEPTQPOESÃONVZQPDPJOUFSÊTFOFMDÓEJHPEFÊUJDBGPSNBM
+3
+EVALÚE
+SU
+RESPUESTA
+
+Capítulo 10: Cultura organizacional y valores éticos 415
+reveló que las empresas con un código de ética escrito tienen las mismas probabilidades
+que las que no lo tienen de que las encuentren culpables de actividades ilegales.91
+Programas de capacitación. Para asegurarse de que los aspectos éticos sean considerados
+en la toma de decisiones cotidiana, muchas empresas complementan el código de ética
+escrito con programas de capacitación de los empleados.92 Todos los empleados de
+Texas Instruments (TI) pasan por un curso de ocho horas de capacitación en ética, que
+
+incluye ejemplos de casos que ofrecen a las personas una oportunidad para enfrentar-
+se a los dilemas éticos. Además, TI incorpora un componente de ética en cada curso de
+
+capacitación que ofrece.93
+En una fase importante, algunos programas de capacitación incluyen también modelos
+de toma de decisiones éticas. El aprendizaje de estos modelos ayuda a los empleados
+a activar de manera autónoma y pensar en la forma de tomar una decisión difícil. En
+algunas empresas se enseñan también a los gerentes las etapas de desarrollo moral, que
+les ayuda a adquirir un alto nivel de toma de decisiones éticas. Esta capacitación ha sido
+un importante catalizador para establecer la integridad y el comportamiento ético como
+componentes cruciales para la competitividad estratégica.94
+Estos sistemas y estructuras formales pueden ser altamente eficaces. Sin embargo, por
+sí solos, no son suficientes para crear y mantener una empresa ética. Los líderes deben
+integrar la ética en la cultura organizacional, así como apoyar y renovar los valores éticos
+por medio de sus palabras y acciones. Sólo cuando los empleados están convencidos de que
+los valores éticos desempeñan un rol clave en todas las decisiones y acciones de la gerencia,
+se pueden sentir comprometidos y convertirlos en parte de su comportamiento cotidiano.
+
+CULTURA CORPORATIVA Y ÉTICA EN UN ENTORNO GLOBAL
+Las organizaciones que operan sobre una base global a menudo se enfrentan a retos
+éticos particularmente difíciles, debido a los varios factores culturales y de mercado que
+deben abordar. La mayor complejidad del entorno y del terreno organizacional crea un
+mayor potencial para los problemas o malentendidos éticos.95 Considere que en Europa la
+privacidad se ha definido como un derecho humano básico y que hay leyes que limitan
+la cantidad y la clase de información que pueden recabar las empresas y controlar la forma
+en que la pueden utilizar. Una nueva legislación de la Unión Europea, por ejemplo, exige
+que los sitios web obtengan el consentimiento del usuario antes de recoger datos sobre
+su identidad y sus hábitos en Internet a través de los archivos de rastreo comúnmente
+conocidos como “cookies”. En las organizaciones estadounidenses, por otra parte, es una
+práctica común recabar datos, intercambiarlos con los socios, utilizarlos para fines de
+marketing, e incluso venderlos. El rastreo móvil va en aumento ya que las empresas tratan
+de poner el mercado en los teléfonos inteligentes de los consumidores.96
+Los empleados de diferentes países pueden tener actitudes y creencias variadas, lo
+que dificulta establecer un sentido de comunidad y congruencia basado en la cultura
+corporativa. De hecho, la investigación ha indicado que la cultura nacional tiene un
+impacto mayor sobre los empleados que la cultura corporativa, y las diferencias en
+la cultura nacional también crean una considerable variación en las actitudes éticas.97
+Entonces, ¿cómo traducen los gerentes las ideas para desarrollar culturas corporativas
+éticas sólidas a un complejo entorno global?
+Vijay Govindarajan, profesor de negocios internacionales y director del programa
+de administración “Global Leadership 2020”, en Dartmouth College, ofrece algunas
+pautas. Su investigación indica que, aun cuando las culturas organizacionales pueden
+variar ampliamente, hay componentes específicos que caracterizan a una cultura global.
+Incluyen un énfasis en los valores multiculturales, más que nacionales, basar el estatus
+en los méritos y no en la nacionalidad, estar abiertos a nuevas ideas de otras culturas,
+
+416 Parte 5: Administración de procesos dinámicos
+mostrar emoción en vez de perturbación cuando se ingresa a nuevos entornos culturales y
+ser sensible a las diferencias culturales, sin sentirse limitado por ellas.98
+Los gerentes también deben pensar más ampliamente en términos de los aspectos
+éticos. Accenture, una empresa de consultoría de gestión, servicios tecnológicos y
+outsourcing, que cuenta con 140,000 empleados en 48 países, trabaja con los enlaces
+de cada región llamados “Geographic Ethics Leads”, para asegurarse de que el código de
+ética fue escrito en lenguaje apropiado y dirigido a las necesidades de los empleados en
+las diferentes regiones. Estos enlaces reciben aportes de los empleados en las sesiones
+de grupos focales que se realizan en cada país. Por lo tanto, aunque hay valores éticos
+esenciales en común, el código de ética de la empresa es la medida para cada país en el
+que Accenture tiene oficinas.99
+Las empresas utilizan una amplia variedad de mecanismos para apoyar y reforzar
+sus iniciativas de ética en una escala global. Uno de los mecanismos más útiles para la
+construcción de una ética global es la auditoría social, que mide e informa sobre el impacto
+ético, social y ambiental de las operaciones de una empresa.100 Las preocupaciones sobre
+las prácticas laborales y las condiciones de trabajo de los proveedores en el extranjero de
+las principales corporaciones estadounidenses impulsaron originalmente el Consejo de
+Prioridades Económicas y la Agencia de Acreditación para proponer un conjunto
+de normas sociales globales para hacer frente a cuestiones como el trabajo infantil,
+los bajos salarios, la inseguridad y las condiciones de trabajo. Hoy en día, la Social
+Accountability 8000, o SA 8000, es la única norma auditable social en el mundo. El
+sistema está diseñado para funcionar como el sistema de calidad de auditoría de ISO
+9000. Muchas empresas, como Avon, Eileen Fisher, y Toys “R” Us están tomando medidas
+para garantizar que sus fábricas y proveedores cumplan con las normas SA 8000.101 Sin
+embargo, los administradores se enfrentan a problemas éticos importantes cuando se
+trabaja a nivel internacional. El soborno, en particular, sigue siendo un problema enorme.
+Avon, Ikea, Halliburton, IBM, Tyson Foods, General Electric y Daimler son sólo algunas de
+las empresas que se han investigado en los últimos años por el presunto pago de sobornos
+para ganar negocios o ganar circunstancias favorables en países extranjeros como Rusia,
+Nigeria, Corea del Sur, China y México, donde algunas empresas aún consideran que el
+soborno es una parte normal de hacer negocios.102
+
+FUNDAMENTOS DE DISEÑO
+■ Este capítulo cubre un rango de material sobre la cultura corporativa, la importancia
+de los valores éticos y culturales y las técnicas que pueden utilizar los gerentes para
+influir en ellos. Los valores culturales y éticos ayudan a determinar el capital social de
+la organización y los valores apropiados pueden contribuir al éxito organizacional.
+■ La cultura es el conjunto de valores, creencias y normas clave que comparten los
+miembros de una organización. Las culturas organizacionales sirven a dos funciones
+
+de importancia vital, integrar a los miembros de manera que puedan saber cómo rela-
+cionarse unos con otros y ayudar a la organización a adaptarse al entorno externo.
+
+La cultura se puede interpretar observando ritos y ceremonias, historias, símbolos,
+estructuras, sistemas de control y relaciones de poder de la organización. Los gerentes
+también pueden utilizar estos elementos para influir en la cultura.
+■ La cultura organizacional debe reforzar la estrategia y la estructura que necesita la
+orga nización para tener éxito en su entorno. Cuatro tipos de cultura que pueden
+existir en las organizaciones son: cultura adaptable, cultura de misión, cultura de clan
+y cultura burocrática. Cuando existe un amplio consenso acerca de la importancia
+de valores específicos, la cultura organizacional es poderosa y cohesiva. Sin embargo,
+incluso en las organizaciones con culturas poderosas, pueden surgir varias series de
+subculturas, en particular en las organizaciones grandes.
+
+Capítulo 10: Cultura organizacional y valores éticos 417
+■ Las culturas poderosas pueden ser o no constructivas. Las culturas constructivas tienen
+diferentes valores y patrones de comportamiento de los de las culturas que no lo son.
+Las culturas sólidas, pero que no son saludables, pueden resultar en detrimento de
+las probabilidades de éxito de una empresa. Por otra parte, las culturas constructivas
+sólidas pueden desempeñar un rol importante en la creación de un alto nivel de
+desempeño y de respuestas innovadoras a los retos, las amenazas competitivas o las
+nuevas oportunidades.
+■ Un aspecto importante de los valores organizacionales es la ética gerencial, que es el
+conjunto de valores que regulan el comportamiento respecto a lo que es o no correcto.
+La responsabilidad social corporativa es una extensión de la ética gerencial y se refiere
+a la responsabilidad de la gerencia de hacer elecciones que contribuyan al bienestar
+de la sociedad, así como al de la organización. Muchas compañías están adoptando
+el concepto de valor compartido, lo que significa que las políticas y las prácticas que
+utilizan mejoran la competitividad de una empresa y al mismo tiempo las hacen avanzar
+en las condiciones económicas y sociales de las comunidades en las que operan.
+■ En el capítulo también se analiza la forma en que los líderes modelan la cultura y la
+ética. Una idea importante es el liderazgo basado en los valores, que significa que los
+
+líderes definen una visión de los valores apropiados, la comunican a toda la organi-
+zación y la institucionalizan por medio del comportamiento cotidiano, los rituales,
+
+las ceremonias y los símbolos. También hablamos de los sistemas formales que son
+importantes para dar forma a los valores éticos. Los sistemas formales incluyen un
+comité y un departamento de ética, mecanismos de divulgación para la denuncia,
+programas de capacitación y un código de ética o valores que especifica los valores y
+las conductas éticas deseadas.
+
+■ A medida que los negocios cruzan cada vez más las fronteras geográficas y cultura-
+les, los líderes se enfrentan a retos difíciles para establecer valores culturales y éticos
+
+sólidos con los que se puedan identificar los empleados y en los que puedan con-
+venir. Las empresas que desarrollan culturas globales hacen hincapié en los valores
+
+multiculturales, en el estatus basado en el mérito y no en la nacionalidad, se sienten
+emocionadas acerca de los nuevos entornos culturales, se mantienen abiertas a las
+ideas de otras culturas y son sensibles a los diferentes valores culturales, sin estar
+limitadas por ellos. Las auditorías sociales son herramientas importantes para las
+empresas que tratan de mantener altos estándares éticos sobre una base global.
+
+adaptación externa
+auditoría social
+capital social
+código de ética
+comité de ética
+cultura de misión
+cultura
+cultura adaptable
+cultura burocrática
+cultura de clan
+
+denuncia de irregularidades
+dilema ético
+director de ética
+estado de derecho
+ética
+ética gerencial
+fortaleza de la cultura
+héroes
+historias
+integración interna
+
+leyendas
+liderazgo basado en los valores
+líneas directas de ética mitos
+responsabilidad social corporativa
+ritos y ceremonias
+símbolo
+subculturas
+valor compartido
+
+Conceptos clave Con
+
+418 Parte 5: Administración de procesos dinámicos
+
+Aspecto de la cultura Tienda de descuento Tienda de alto nivel
+
+ .JTJÓOEFMBUJFOEBy$VÃMFT y&TDMBSBQBSB
+MPTFNQMFBEPT 
+
+ *OJDJBUJWBJOEJWJEVBMy4FBMJFOUB 
+
+ 4JTUFNBEFSFDPNQFOTBTy1BSBRVÊTF
+SFDPNQFOTBBMPTFNQMFBEPT 
+
+(continúa)
+
+Para comprender más acerca de la cultura corporativa, visite
+
+dos tiendas minoristas y compárelas conforme a varios fac-
+tores. Vaya a una de precio bajo como Kmart o WalMart y a
+
+una de alto nivel, como Saks Fifth Avenue o Macy’s. No entre-
+viste a los empleados, sólo actúe como observador o compra-
+dor. Después de sus visitas, llene la siguiente tabla para cada
+
+una de las tiendas. Pase por lo menos dos horas en cada una
+un día de mucha actividad y observe con cuidado.
+Cuaderno de trabajo del capítulo 10: Shop ‘til You Drop: la cultura corporativa en el mundo
+
+minorista103
+
+Cuad
+1 ¿Cuánto considera usted que es posible que una persona
+ajena discierna acerca de los valores culturales implícitos
+
+de una organización, analizando los símbolos, las ceremo-
+nias, la forma de vestir u otros aspectos observables de
+
+la cultura, en comparación con una persona dentro de la
+
+empresa, con varios años de experiencia laboral? Especifi-
+que un porcentaje (por ejemplo, 10%, 70%) y explique su
+
+razonamiento.
+2 Muchas de las empresas que aparecen en la lista de la
+revista Fortune de las empresas más admiradas, también
+
+aparecen en su lista de las más rentables. Algunas perso-
+nas dicen que esto demuestra que un alto capital social se
+
+traduce en utilidades. Otras sugieren que, en primer lugar,
+un alto nivel de rentabilidad es la razón primordial por
+la que las empresas tienen una buena cultura y son dos
+interpretaciones diferentes.
+3. ¿Una sólida cultura burocrática puede ser también una
+cultura constructiva, como se define en el texto y en la
+figura 10.5? Explique.
+
+4. ¿Por qué el liderazgo basado en los valores es tan impor-
+tante para la influencia de la cultura? ¿Un acto simbólico
+
+comunica más acerca de los valores de la empresa que una
+declaración explícita? Explique.
+5. ¿Puede recordar una situación en la que usted o alguien
+
+que conoce enfrentó un dilema ético, como alentarlo a in-
+flar una cuenta de gastos o a vender las respuestas de un
+
+examen? ¿Considera que la decisión resultó afectada más
+por los valores morales del individuo o por los valores
+aceptados dentro del equipo o de la empresa? Explique.
+
+6. En una encuesta de 20 000 personas en 16 países euro-
+peos, además de Rusia, Turquía y Estados Unidos, 55% de
+
+los participantes dijo que hacer trampas en los negocios es
+más común ahora que hace diez años. ¿Cree que eso sea
+cierto o las nuevas formas de los medios simplemente han
+hecho que las trampas sean más visibles? Explique.
+
+7. ¿Qué importancia le atribuiría a las declaraciones y accio-
+nes de liderazgo para influir en los valores éticos y en la
+
+toma de decisiones de una organización?
+
+8. ¿Por qué la globalización ha contribuido a hacer más com-
+plejos los aspectos éticos? ¿Considera que es posible que
+
+una empresa que opera en muchos países diferen tes tenga
+
+una cultura corporativa cohesiva? ¿Que tenga valores éti-
+cos uniformes?
+
+9. Se ha criticado a los códigos de ética por transferir la res-
+ponsabilidad del comportamiento ético de la orga nización
+
+a cada empleado. ¿Está de acuerdo? ¿Cree que un código
+de ética es valioso para una organización?
+10. Explique el concepto de valor compartido. ¿Cree usted que
+
+los gerentes de empresas que adoptan un enfoque de va-
+lor compartido son más propensos a comportarse de ma-
+nera ética y socialmente responsable? Discuta.
+
+Preguntas para análisis Preg
+
+Capítulo 10: Cultura organizacional y valores éticos 419
+
+Caso para análisis: Implementación del cambio en National Industrial Products104
+
+Curtis Simpson permaneció sentado mirando por la venta-
+na de su oficina. ¿Qué le diría a Tom Lawrence cuando se
+
+reunieran esa tarde? Era evidente que Tom había satisfecho
+el reto que Simpson le había presentado cuando lo contrató
+como presidente de National Industrial Products (National)
+hacía poco más de un año, pero parecía que la empresa se
+
+venía abajo. Como presidente del consejo y CEO de Simp-
+son Industries, que había adquirido a National hacía varios
+
+años, Simpson enfrentaba la tarea de comprender el problema
+y comunicarle con claridad sus ideas y creencias a Lawrence.
+
+National Industrial Products es un productor de media-
+no tamaño de sellos mecánicos, bombas y otros productos
+
+de control de flujos. Cuando Simpson Industries adquirió la
+empresa, se encontraba bajo el liderazgo de Jim Carpenter,
+que había sido CEO durante casi tres décadas y les agradaba a
+todos los trabajadores. Carpenter siempre había tratado a sus
+empleados como si fueran miembros de la familia. Conocía
+casi a todos
+
+por su primer nombre, a menudo los visitaba en sus ho-
+gares si estaban enfermos y pasaba parte del día simplemente
+
+Aspecto de la cultura Tienda de descuento Tienda de alto nivel
+
+ 5SBCBKPFOFRVJQPy-BTQFSTPOBTEFOUSPEF
+VOEFQBSUBNFOUPPFOUSFMPTEFQBSUBNFOUPT
+USBCBKBOKVOUBTPIBCMBOVOBTDPOPUSBT 
+ -FBMUBEBMBFNQSFTBy)BZFWJEFODJBEFMFBMUBE
+PEFFOUVTJBTNPQPSUSBCBKBSBMMÎ 
+
+ .BOFSBEFWFTUJSy)BZVOJGPSNFT y)BZVO
+DÓEJHPSFTQFDUPBMBGPSNBEFWFTUJS y2VÊ
+UBOGVFSUFFT y$ÓNPDBMJGJDBFOHFOFSBMMB
+BQBSJFODJBQFSTPOBMEFMPTFNQMFBEPT 
+ %JWFSTJEBEPBTQFDUPDPNÙOEFMPTFNQMFBEPT
+y)BZEJWFSTJEBEPBMHPFODPNÙOFOMBFEBE
+MB
+
+FEVDBDJÓO
+MBSB[B
+MBQFSTPOBMJEBE
+FUDÊUFSB 
+ 0SJFOUBDJÓOBMTFSWJDJPy4FWBMPSBBMDMJFOUFP
+TFMFUPMFSB 
+
+ %FTBSSPMMPEFSFDVSTPTIVNBOPTy)BZBMHVOB
+PQPSUVOJEBEEFDSFDJNJFOUPQBSBQSPHSFTBS 
+
+Preguntas
+
+1 ¿En qué forma parece influir la cultura en el comporta-
+miento de los empleados en cada tienda?
+
+2 ¿Qué efecto tiene el comportamiento de los empleados so-
+bre los clientes?
+
+3 ¿En qué tienda era más agradable estar? ¿Cómo se relacio-
+na eso con la misión de la tienda?
+
+420 Parte 5: Administración de procesos dinámicos
+
+charlando con los trabajadores en el taller de la fábrica. Na-
+tional patrocinaba una fiesta anual para ellos, así como días
+
+de campo de la empresa y otros eventos sociales varias veces
+al año y Carpenter siempre asistía a todos. Consideraba que
+esas actividades eran tan importantes como sus visitas a los
+clientes o sus negociaciones con los proveedores. Carpenter
+creía que era importante tratar bien a las personas, de manera
+
+que experimentaran un sentimiento de lealtad hacia la empre-
+sa. Si el negocio marchaba con lentitud, les encontraba a los
+
+trabajadores algo más que pudieran hacer, incluso si sólo se
+trataba de barrer el estacionamiento, en vez de despedirlos.
+Creía que la empresa no se podía permitir el lujo de perder a
+trabajadores capacitados, ya que era difícil reemplazarlos. “Si
+usted trata bien a las personas”, decía, “ellas desempeñarán
+un buen trabajo para usted sin la necesidad de presionarlas”.
+
+Carpenter nunca había establecido objetivos y estánda-
+res de desempeño para los departamentos y confiaba en que
+
+los gerentes los administrarían según lo creyeran apropiado.
+
+Ofrecía programas de capacitación en comunicaciones y re-
+laciones humanas para los gerentes y los líderes de equipo
+
+varias veces al año. El enfoque de Carpenter parecía haber
+dado muy buenos resultados durante gran parte de la historia
+
+de National. Los empleados eran leales a Carpenter y a la em-
+presa y en muchos casos los trabajadores habían ido muy por
+
+encima y más allá de la línea del deber. Por ejemplo, cuando
+
+dos bombas National que surtían agua a un barco de la Ma-
+rina de Estados Unidos fallaron un sábado por la noche, justo
+
+antes de la partida programada del barco, dos empleados tra-
+bajaron durante toda la noche para hacer los nuevos sellos y
+
+entregarlos para su instalación antes de que el barco zarpara.
+La mayoría de los gerentes y empleados había estado con la
+empresa durante muchos años y National se jactaba de tener
+el índice de rotación más bajo en la industria.
+Sin embargo, a medida que la industria había empezado a
+cambiar en los años recientes, la competitividad de National
+
+había disminuido. Cuatro de sus principales rivales se fusio-
+naron en dos empresas grandes, capacitadas para satisfacer
+
+las necesidades del cliente, uno de los factores que condujeron
+a que Simpson Industries adquiriera a National. Después de
+la adquisición, las ventas y las utilidades de esta última habían
+
+seguido a la baja, al mismo tiempo que los costos se incre-
+mentaban. Además, los altos directivos de Simpson Industries
+
+estaban preocupados por el bajo nivel de productividad en
+National. Aun cuando se habían sentido muy satisfechos de
+
+que Carpenter se quedara durante la transición, en el trans-
+curso de un año lo habían presionado amablemente para un
+
+retiro anticipado. Algunos de los altos directivos creían que
+
+Carpenter toleraba el mal desempeño y el nivel bajo de pro-
+ductividad con el fin de mantener un ambiente amistoso. “En
+
+el mundo actual, simplemente no es posible hacer eso”, había
+comentado uno de ellos. “Debemos traer a alguien que pueda
+implementar el cambio y cambiar a toda prisa la empresa, o
+National se irá a la quiebra.” Fue entonces cuando llamaron
+a Tom Lawrence para que se hiciera cargo, con la orden de
+reducir los costos y mejorar la productividad y las utilidades.
+Lawrence tenía una creciente reputación como un gerente
+joven y dinámico que podía lograr que las cosas se hicieran
+
+con rapidez. De inmediato empezó a hacer cambios en Na-
+tional. En primer lugar, redujo los costos descontinuando las
+
+actividades sociales patrocinadas por la empresa, e incluso se
+negó a permitir las celebraciones de cumpleaños improvisadas
+
+que antes eran una parte regular de la vida en National. Redu-
+jo los programas de capacitación en comunicaciones y recur-
+sos humanos, argumentando que eran una pérdida de tiempo
+
+y dinero. “No estamos aquí para hacer que las personas se
+sientan bien”, dijo a sus gerentes. “Si las personas no quieren
+trabajar, desháganse de ellas y encuentren a alguien más que
+
+lo haga.” A menudo se refería a los trabajadores que se queja-
+ban de los cambios en National llamándolos “llorones”.
+
+Lawrence estableció estrictos estándares de desempeño
+para sus vicepresidentes y los gerentes de departamento y les
+ordenó que hicieran lo mismo con sus empleados. Celebraba
+juntas semanales con cada gerente para revisar el desempeño
+del departamento y discutir los problemas. Ahora
+todos los empleados estaban sujetos a revisiones re gu lares
+
+de su desempeño. Cualquier trabajador que tenía un desem-
+peño inferior al estándar recibía una advertencia y después lo
+
+despedían si su no mejoraba en el transcurso de dos semanas.
+Y mientras que a los gerentes y a los representantes de ventas
+antes les pagaban un sueldo fijo y la antigüedad era el único
+criterio para el progreso, Lawrence implementó un sistema
+de revisión que los recompensaba por alcanzar las metas de
+productividad, ventas y utilidades. Para quienes cumplían con
+esos estándares, las recompensas eran generosas, por ejemplo,
+bonos cuantiosos y beneficios adicionales como automóvil de
+la empresa y viajes en avión en primera clase para asistir a las
+juntas de la industria. Los que se quedaban atrás a menudo
+
+eran objeto de reprensiones delante de sus compañeros, pi-
+diéndoles que dieran el ejemplo, y si no mejoraban pronto su
+
+desempeño, Lawrence no titubeaba en despedirlos.
+Para finales del primer año de Lawrence como presidente
+de National, los costos de producción se habían reducido casi
+
+20%, mientras que la producción y las ventas habían aumen-
+tado casi 10%. Sin embargo, tres gerentes experimentados y
+
+muy respetados de National habían dejado la empresa para
+
+trabajar con los competidores y la rotación entre los emplea-
+dos de producción se había incrementado de forma alarman-
+te. En el difícil mercado laboral no era fácil encontrar reem-
+plazos. Lo más inquietante para Simpson eran los resultados
+
+de una encuesta que le había encomendado a un consultor ex-
+terno. La encuesta indicaba que la moral en National estaba
+
+por los suelos. Los trabajadores veían a sus supervisores con
+antagonismo y con un dejo de temor. Expresaban la creencia
+de que los gerentes estaban obsesionados con las utilidades y
+
+las cuotas y no se interesaban en las necesidades y los senti-
+mientos de los trabajadores. También comentaban que el en-
+torno informal y amistoso que había hecho de National un
+
+excelente lugar para trabajar se había visto reemplazado por
+un entorno de agresiva competencia y desconfianza internas.
+Simpson se sentía complacido al ver que Lawrence había
+
+llevado las utilidades y la productividad de National a la al-
+tura de los estándares que esperaba Simpson Industries. Sin
+
+embargo, le preocupaba que el nivel tan bajo de la moral y
+el alto índice de rotación perjudicaran seriamente a la empre-
+
+Capítulo 10: Cultura organizacional y valores éticos 421
+sa a largo plazo. ¿Estaría Lawrence en lo cierto al decir que
+muchos de los empleados de National simplemente eran unos
+“llorones”? ¿Estaban tan acostumbrados a que Carpenter los
+
+mimara, que no estaban dispuestos a hacer los cambios nece-
+sarios para lograr que la empresa siguiera siendo competitiva?
+
+Por último, Simpson se preguntaba si un espíritu de compe-
+tencia puede existir en un entorno de cordialidad y coopera-
+ción como el fomentado por Carpenter.
+
+George Stein, un estudiante universitario que trabaja para
+Eastern Dairy durante el verano, de pronto se enfrentó a un
+
+dilema ético. George disponía de muy poco tiempo para pen-
+sar en sus elecciones, menos de un minuto. Por una parte, po-
+día hacer lo que Paul le había indicado que hiciera y una vez
+
+concluido su turno se podría ir a casa a tiempo. Sin embargo,
+le resultaba difícil apartar de su mente la imagen de todos esos
+niños inocentes bebiendo leches malteadas contaminadas con
+larvas pulverizadas. Si en vez de eso decidía ir en contra de
+Paul, ¿qué dirían sus compañeros? Casi podría escuchar sus
+comentarios burlones: “chismoso... colegial...”.
+Antecedentes
+George Stein había vivido todo el tiempo en varios suburbios
+de una ciudad importante en la Costa Este. El sueldo de su
+padre como gerente le proporcionaba a la familia un sólido
+estilo de vida de clase media. Su madre era ama de casa. Los
+
+principales intereses de George en la vida eran el lugar de reu-
+nión local para adolescentes, un restaurante con servicio en el
+
+automóvil, los autos de carreras y su novia, Cathy. En realidad
+no había querido asistir a la universidad, pero la inexorable
+presión de sus padres lo convenció de que lo intentara durante
+un año. Eligió la carrera de ingeniería mecánica, esperando
+que hubiera alguna similitud entre ser ingeniero mecánico y
+ser mecánico. Sin embargo, después de un año en la escuela
+de ingeniería, todavía no veía ninguna similitud. Una vez más,
+ese verano, sus padres tuvieron que estimularlo y lisonjearlo
+para que conviniera en regresar a la universidad en el otoño.
+Sólo tuvieron éxito cuando le prometieron darle su bendición
+para que contrajera matrimonio con Cathy después de cursar
+el segundo año en la universidad.
+George había trabajado en ocupaciones menores cada
+
+uno de los últimos cuatro veranos, para satisfacer su necesi-
+dad inmediata de dinero para sus citas y su automóvil. Había
+
+ahorrado un poco para cubrir sus gastos diarios durante el
+año escolar. Pero muy poco para el día en que Cathy y él
+iniciaran su vida juntos, pero habían planeado que Cathy los
+sostuviera con sus ganancias como representante de servicio
+
+al cliente hasta que George terminara la universidad o renun-
+ciara a ella.
+
+Al siguiente día de que George regresó a casa ese verano,
+oyó decir que Eastern Dairy podría contratar ayuda durante
+el verano. Al día siguiente presentó su solicitud en la planta
+
+local. Eastern Dairy era una empresa sindicalizada y los suel-
+dos que pagaban eran más del doble del salario mínimo que le
+
+habían pagado a George en sus trabajos anteriores, de manera
+que estaba muy interesado en obtener un puesto.
+
+Eastern Dairy fabricaba malteadas y una mezcla de hela-
+dos para varios clientes en el área metropolitana. Les vendía
+
+la mezcla de helado en recipientes de 20 y 40 litros a otras
+empresas, que después añadían los ingredientes saborizantes
+(por ejemplo, fresa o arándano), empacaban y congelaban la
+mezcla y vendían el helado con sus propias marcas. Eastern
+Dairy vendía la mezcla de malteadas en cartones de 20 litros,
+con un revestimiento de plástico. Esos paquetes se entregaban
+a muchos restaurantes en el área. El empaque estaba diseñado
+para que cupiera en las batidoras de leche automáticas que se
+utilizaban en muchos tipos de restaurantes, como la mayoría
+de los establecimientos de comida rápida y de servicio en el
+automóvil.
+
+George se entusiasmó cuando recibió una llamada pidién-
+dole que se presentara en la planta el 8 de junio. Después de
+
+una breve visita al director de recursos humanos, en donde
+
+George llenó las formas de empleo necesarias, le dieron ins-
+trucciones para que se reportara a trabajar a las 11:00 p. m.
+
+Lo asignaron al horario nocturno, trabajando desde las 11:00
+p. m. hasta las 7.00 a. m. Seis noches a la semana, de domingo
+a viernes. Con los sueldos regulares que pagaban en Eastern
+Dairy, complementados por un pago de tiempo y medio por
+ocho horas garantizadas de horas extra cada semana, George
+
+pensó que podría ahorrar una buena suma antes de que tuvie-
+ra que regresar a la universidad a finales de la primera semana
+
+de septiembre.
+Cuando George se reportó a trabajar, descubrió que no
+había gerentes asignados al turno de noche. Toda la planta era
+
+administrada por una cuadrilla de operadores, de seis perso-
+nas. Un miembro de esa cuadrilla, un hombre joven llamado
+
+Paul Burnham, recibía los pedidos de producción cada noche
+de manos del superintendente del turno matutino, cuando el
+superintendente terminaba su turno y se retiraba. Aun cuando
+
+la posición de Paul no era diferente de la de sus cinco cole-
+gas, los demás miembros de la cuadrilla siempre recurrían a él
+
+solicitando instrucciones. Paul pasaba las órdenes de produc-
+ción a la mezcladora (que era la primera etapa del proceso de
+
+producción) y llevaba los registros de producción del turno.
+
+En realidad, el proceso de producción era bastante sen-
+cillo. Las mezclas se movían entre varias piezas de equipo
+
+(tinas de mezclado, pasteurizadoras, enfriadoras, homogenei-
+zadoras y máquinas de llenado) por medio de conductos de
+
+acero inoxidable suspendidos del techo. Todos los conductos
+
+se debían desensamblar, se limpiaban a fondo y se reinsta-
+Caso para análisis: ¿Esta leche malteada tiene un sabor extraño?105
+
+422 Parte 5: Administración de procesos dinámicos
+laban al terminar el turno de noche. Este proceso requería
+
+aproximadamente una hora, de manera que la mezcla de-
+bía estar preparada para las 6:00 a. m., con el fin de terminar
+
+la limpieza para las 7:00 a. m., la hora de salida. Paul y Fred,
+otro trabajador (el mezclador) limpiaban las gigantescas tinas
+
+mientras los otros cuatro miembros del turno, incluido Geor-
+ge, limpiaban y reinstalaban los conductos y los filtros.
+
+George muy pronto aprendió que Paul experimentaba
+un sentido de responsabilidad para completar todo el trabajo
+
+asignado antes de que terminara el turno. Sin embargo, siem-
+pre y cuando se lograra ese objetivo, no le parecía importar lo
+
+que sucedía durante el turno. La norma era contar una gran
+
+cantidad de historias, hacer bromas ruidosas, pero el traba-
+jo siempre estaba terminado para la hora de la salida. Muy
+
+pronto, George empezó a disfrutar de la fácil camaradería del
+grupo de trabajo, de las jugarretas que se hacían unos a otros,
+e incluso del trabajo mismo.
+La posición de George requería que se colocara a un lado
+la banda transportadora en un espacioso congelador. Retiraba
+los contenedores de la mezcla cuando bajaban por la línea
+y los almacenaba en los lugares apropiados. Periódicamente,
+
+Paul decidía que todos habían trabajado arduamente y cerra-
+ba la línea durante un tiempo, con el fin de que se pudieran
+
+dedicar a alguna actividad que no fuera de trabajo, como con-
+tar chistes, ocultar las cajas de comida de los demás o entablar
+
+luchas de “globos”. Los globos en realidad eran los revesti-
+mientos flexibles de 20 litros para las cajas de cartón en donde
+
+se vendía la mezcla.
+Aun cuando George no disfrutaba cuando lo golpeaba
+
+una bolsa que hacía explosión y que contenía 20 litros de es-
+pesa mezcla, le parecía divertido lanzarle alguna a uno de sus
+
+compañeros de trabajo. La pérdida de 40 a 150 litros de mez-
+cla durante un turno no parecía preocuparle a nadie y esas
+
+luchas nunca se prohibían. George muy pronto se enteró de
+que la gerencia sólo esperaba dos cosas del turno de noche.
+
+En primer lugar, que el turno terminara las órdenes de pro-
+ducción cada noche. En segundo, que el equipo, incluidos los
+
+conductos, estuviera inmaculadamente limpio a la conclusión
+
+del turno. Paul le dijo a George que los inspectores del depar-
+tamento de salud del condado ocasionalmente se presentaban
+
+sin anunciarse a finales del turno, para inspeccionar las tinas
+
+y los conductos una vez que los habían desensamblado y la-
+vado. Paul también le comentó a George que la gerencia se
+
+molestaría mucho si los inspectores presentaban quejas acerca
+de la limpieza.
+
+George se unió al sindicato, pero veía muy poca evi-
+denciade su participación cotidiana en las actividades de la
+
+planta. Las relaciones laborales parecían bastante amistosas y
+George sólo se acordaba del sindicato cuando venía el talón
+
+de su pago y observaba que le habían deducido las cuotas sin-
+dicales. La diferencia que George observaba al trabajar para
+
+Eastern Dairy, en comparación con sus patrones anteriores,
+
+no era la presencia del sindicato, sino la ausencia de una ad-
+ministración.
+
+La situación actual
+Las cosas parecían ir bastante bien para George en el trabajo,
+hasta hacía pocos minutos. El problema salió primero a la
+
+superficie cuando la mezcla de malteadas en la que estaban
+trabajando empezó a fugarse por una de las juntas de la red
+de conductos en lo alto. Las bombas se detuvieron mientras
+George desensamblaba la junta para ver cuál era el problema.
+
+George quitó la rejilla del filtro en la junta que estaba gotean-
+do y vio que estaba totalmente tapada con una materia sólida.
+
+Una inspección más de cerca reveló que las culpables eran las
+
+larvas. George se apresuró a llevarle el filtro a Paul para mos-
+trarle la causa del bloqueo. Paul no parecía preocupado y le
+
+indicó a George que limpiara el filtro y volviera a ensamblar
+la junta. Cuando George le preguntó cómo era posible que
+hubiera sucedido eso, Paul le respondió que ocasionalmente
+
+las larvas se introducían en las bolsas de ciertos ingredien-
+tes que se guardaban en un almacén en la parte posterior del
+
+terreno. “Pero no tienes por qué preocuparte”, declaró Paul.
+“Los filtros atraparán cualquier materia sólida.”
+Sintiéndose un tanto tranquilo, George limpió el filtro y
+reensambló el conducto. Pero todavía le era difícil apartar de
+su mente la imagen de las larvas flotando en una malteada. Y,
+por desgracia para George, eso no fue el final de todo.
+
+Poco después de que volvieron a ponerse en funciona-
+miento las bombas, la mezcla empezó a arrojar otra junta.
+
+Una vez más, se encontró que la causa era un filtro obstruido
+por larvas.
+
+Por segunda vez, George limpió el filtro y volvió a en-
+samblar la conexión. Esta vez Paul parecía un poco más pre-
+ocupado al observar que apenas disponían de tiempo para
+
+terminar los últimos 2 000 litros restantes en las tinas antes
+de que necesitaran hacer la limpieza y prepararse para el final
+del turno.
+Momentos después de que se puso de nuevo en funciones
+
+el equipo, otra junta empezó a arrojar algo. Cuando se encon-
+tró que las larvas también obstruían ese filtro, Paul llamó a
+
+George y le indicó que retirara los cinco filtros de la línea, de
+manera que se pudiera trabajar con los últimos 2 000 litros,
+pero sin filtros. Paul rió al ver la expresión de sorpresa en el
+rostro de George.
+“George”, le dijo, “no olvides que todo este material pasa
+
+por la homogeneizadora, de manera que cualquier materia só-
+lida quedará pulverizada. Y cuando se caliente en el proceso
+
+de pasteurización, eso acabará con cualquier bacteria. Nadie
+se enterará nunca de esto, la empresa se puede ahorrar una
+
+buena cantidad de mezcla y, lo que es más importante, podre-
+mos terminar todo esto e irnos a casa a tiempo”.
+
+George sabía que jamás terminarían con ese lote si tenían
+que parar las máquinas cada minuto para limpiar los filtros y
+
+no había razón para creer que eso no sucedería durante el res-
+to de la corrida. El producto se había mezclado con cuidado
+
+en las tinas mezcladoras al principio del proceso, lo que signi-
+ficaba que los contaminantes se habían distribuido de manera
+
+uniforme en los 2 000 litros. George también sabía que esos
+2 000 litros de malteada eran muy costosos; no creía que la
+gerencia quisiera que todo eso se arrojara al drenaje.
+
+Por último, Paul estaba definitivamente en lo cierto acer-
+ca de una cosa, si se retiraban todos los filtros, un trabajo de
+
+10 minutos cuando mucho, eso aseguraría que podrían lim-
+piar todo e irse a casa a tiempo.
+
+Mientras caminaba hacia la primera junta para retirar el
+filtro, sintió que se le empezaba a hacer un nudo en el estóma-
+
+Capítulo 10: Cultura organizacional y valores éticos 423
+
+Taller del capítulo 10: El poder de la ética106
+Este ejercicio los ayudará a comprender mejor el concepto de
+ética y lo que significa para ustedes.
+1 Dediquen alrededor de cinco minutos individualmente a
+responder a las preguntas siguientes.
+2 Divídanse en equipos de cuatro a seis miembros.
+3 Hagan que cada equipo trate de llegar a un consenso con
+las respuestas a cada una de las cuatro preguntas. Para
+la pregunta 3, elijan un escenario que quieran poner de
+relieve. Dispondrán de 20 a 40 minutos para este ejercicio,
+dependiendo de su profesor.
+
+4 Hagan que los equipos compartan sus respuestas con to-
+dos los miembros del aula, después de lo cual el profesor
+
+guiará una discusión sobre la ética y su poder en los nego-
+cios.
+
+Preguntas
+1. Con sus propias palabras, en una o dos frases defina el
+concepto de ética.
+
+2. Si usted fuera un gerente, ¿cómo motivaría a sus emplea-
+dos para que siguieran un comportamiento ético? No uti-
+lice más de una o dos frases.
+
+3. Describa una situación en la cual usted se enfrentó a un
+dilema ético. ¿Cuál fue su decisión y su comportamiento?
+¿Cómo decidió hacer eso? ¿Puede relacionar su decisión
+con cualquier concepto en el capítulo?
+4. ¿Qué cree que sea un poderoso mensaje ético para otros?
+
+¿De dónde lo obtuvo? ¿En qué forma influirá en su com-
+portamiento en el futuro?
+
+Talle
+
+Notas
+1. Steve Hamm, “A Passion For the Planet”, BusinessWeek (21–
+28 de agosto de 2006), 92–94; “Our Reason for Being”, sitio
+web de Patagonia, http://www.patagonia.com/us/patagonia.
+go?assetid=2047&ln=140 (consultado el 8 de septiembre
+de 2011); Geoff Colvin, “The Defiant One”, Fortune (30
+de abril de 2007), 86–92; y Jad Mouawad, “New Culture
+of Caution at Exxon after Valdez”, The New York Times
+(12 de julio de 2010), http://www.nytimes.com/2010/07/13/
+business/13bpside.html (consultado el 8 de septiembre de
+2011).
+2. Julia Boorstin, “Secret Recipe: J. M. Smucker”, Fortune (12 de
+enero de 2004), 58–59.
+3. Para la historia de Bear Stearns y su cultura, consulte William
+D. Cohan, House of Cards: A Tale of Hubris and Wretched
+Excess on Wall Street (Nueva York: Doubleday 2009); Chuck
+Leddy, “When Wall Street Bet the House”, Boston Globe,
+28 de marzo de 2009, G8; y Robin Sidel y Kate Kelly, “Bear
+Stearns a Year Later: From Fabled to Forgotten—Bear’s Name,
+and Culture, Fade Away After J.P. Morgan’s Fire-Sale Deal”,
+The Wall Street Journal, 14 de marzo de 2009, B1.
+4. Mark C. Bolino, William H. Turnley y James M. Bloodgood,
+“Citizenship Behavior and the Creation of Social Capital in
+Organizations”, Academy of Management Review 27, núm. 4
+(2002), 505–522; y Don Cohen y Laurence Prusak, In Good
+Company: How Social Capital Makes Organizations Work
+(Boston: Harvard Business School Press, 2001), 3–4.
+
+5. W. Jack Duncan, “Organizational Culture: ‘Getting a Fix’ on
+an Elusive Concept”, Academy of Management Executive 3
+(1989), 229–236; Linda Smircich, “Concepts of Culture and
+Organizational Analysis”, Administrative Science Quarterly
+28 (1983), 339–358; y Andrew D. Brown y Ken Starkey, “The
+Effect of Organizational Culture on Communication and
+Information”, Journal of Management Studies 31, núm. 6
+(noviembre de 1994), 807–828.
+6. Ver Jon Katzenbach y Zia Khan, “Leading Outside the Lines”,
+
+Strategy + Business (26 de abril de 2010), http://www.strategy-
+business.com/article/10204?gko=788c9 (consultado el 9 de
+
+septiembre de 2010) para una idea de la organización formal
+frente a la informal.
+7. Edgar H. Schein, “Organizational Culture”, American
+Psychologist 45 (febrero de 1990), 109–119.
+8. James H. Higgins y Craig McAllaster, “Want Innovation?
+Then Use Cultural Artifacts That Support It”, Organizational
+Dynamics 31, núm. 1 (2002), 74–84.
+9. Harrison M. Trice y Janice M. Beyer, “Studying Organizational
+Cultures through Rites and Ceremonials”, Academy of
+Management Review 9 (1984), 653–669; Janice M. Beyer
+y Harrison M. Trice, “How an Organization’s Rites Reveal
+Its Culture”, Organizational Dynamics 15 (primavera de
+1987), 5–24; Steven P. Feldman, “Management in Context:
+An Essay on the Relevance of Culture to the Understanding
+of Organizational Change”, Journal of Management Studies
+
+Not
+
+go al pensar en todos los niños bebiendo las malteadas que es-
+taban a punto de producir. Ya había decidido que no tomaría
+
+otra malteada por lo menos durante un mes, para estar seguro
+de que ese lote ya no se servía en los restauran-tes. Después de
+
+todo, él no sabía exactamente qué sucursales recibirían esta
+mezcla. Mientras tomaba la llave de tuercas y se acercaba a la
+primera junta del conducto que contenía un filtro, todavía no
+podía dejar de preguntarse si debería hacer o decir algo más.
+
+424 Parte 5: Administración de procesos dinámicos
+23 (1986), 589–607; y Mary Jo Hatch, “The Dynamics of
+Organizational Culture”, Academy of Management Review 18
+(1993), 657–693.
+10. Esta discusión se basa en Edgar H. Schein, Organizational
+Culture and Leadership, 2da. ed. (Homewood, IL: Richard D.
+Irwin, 1992); y John P. Kotter y James L. Heskett, Corporate
+Culture and Performance (Nueva York: Free Press, 1992).
+11. Stacy Perman, “The Secret Sauce at In-N-Out Burger”
+(extracto de In-N-Out Burger: A Behind-the-Counter Look at
+the Fast-Food Chain That Breaks All the Rules, publicado por
+HarperBusiness 2009), BusinessWeek (20 de abril de 2009),
+68–69.
+12. Larry Mallak, “Understanding and Changing Your
+Organization’s Culture”, Industrial Management (marzo–abril
+de 2001), 18–24.
+13. Basado en Gerry Johnson, “Managing Strategic Change—
+Strategy, Culture, and Action”, Long Range Planning 25,
+núm. 1 (1992), 28–36.
+14. Para una lista más amplia de los diversos elementos que
+se pueden utilizar para evaluar o interpretar la cultura
+corporativa, consulte “10 Key Cultural Elements”, nota al
+margen de Micah R. Kee, “Corporate Culture Makes a Fiscal
+Difference”, Industrial Management (noviembre–diciembre
+2003), 16–20.
+15. Gazi Islam y Michael J. Zyphur, “Rituals in Organizations:
+A Review and Expansion of Current Theory”,
+Group & Organization Management 34, núm. 1 (2009),
+114–139; Trice y Beyer, “Studying Organizational Cultures
+through Rites and Ceremonials”; y Terrence E. Deal y Allan
+A. Kennedy, “Culture: A New Look through Old Lenses”,
+Journal of Applied Behavioral Science 19 (1983), 498–505.
+16. Leigh Buchanan, “Managing: Welcome Aboard. Now, Run!”
+Inc. (marzo de 2010), 95–96.
+17. Ejemplo reportado en Don Hellriegel y John W. Slocum, Jr.,
+Management, 7a. ed. (Cincinnati, OH: South-Western, 1996),
+537.
+18. Trice y Beyer, “Studying Organizational Cultures through
+Rites and Ceremonials”.
+19. Chip Jarnagan y John W. Slocum, Jr., “Creating Corporate
+Cultures Through Mythopoetic Leadership”, Organizational
+Dynamics 36, núm. 3 (2007), 288–302
+20. Joanne Martin, Organizational Culture: Mapping the Terrain
+(Thousand Oaks, CA: Sage Publications, 2002), 71–72.
+21. Joann S. Lublin, “Theory & Practice: Keeping Clients by
+Keeping Workers; Unique Efforts to Encourage Employee
+Loyalty Pay Off for U.K. Ad Shop Mother”, The Wall Street
+Journal, 20 de noviembre de 2006, B3.
+22. Buchanan, “Managing: Welcome Aboard. Now, Run!”
+23. “FYI: Organization Chart of the Month”, Inc. (abril de 1991),
+14.
+24. Neal E. Boudette, “Fiat CEO Sets New Tone at Chrysler”,
+The Wall Street Journal Online (19 de junio de 2009), http://
+online.wsj.com/article/SB124537403628329989.html?utm_
+source=feedburner&utm_medium=feed&utm_
+campaign=Feed%3A+wsj%2Fxml%2Frss%2F3_7011
++%28WSJ.com%3A+What%27s+News+US%29#mod=rss_
+whats_news_us (consultado el 12 de septiembre de 2011).
+25. Gary Hamel con Bill Breen, The Future of Management
+(Boston: Harvard Business School Press, 2007).
+26. Matt Moffett, “At InBev, a Gung-Ho Culture Rules; American
+Icon Anheuser, A Potential Target, Faces Prospect of Big
+Changes”, The Wall Street Journal, 28 de mayo de 2008, B1; y
+Matt Moffett, “InBev’s Chief Built Competitive Culture”, The
+Wall Street Journal, 13 de junio de 2008, B6.
+
+27. Michelle Conlin, “Netflix: Flex to the Max”, BusinessWeek
+(24 de septiembre de 2007), 72–74.
+28. Johnson, “Managing Strategic Change—Strategy, Culture, and
+Action”.
+29. Jennifer A. Chatman y Sandra Eunyoung Cha, “Leading by
+Leveraging Culture”, California Management Review 45,
+núm. 4 (verano de 2003), 20–34; y Abby Ghobadian y
+Nicholas O’Regan, “The Link between Culture, Strategy, and
+Performance in Manufacturing SMEs”, Journal of General
+Management 28, núm. 1 (otoño de 2002), 16–34.
+30. James R. Detert, Roger G. Schroeder y John J. Mauriel, “A
+Framework for Linking Culture and Improvement Initiatives
+in Organizations”, Academy of Management Review 25, núm.
+4 (2000), 850–863.
+31. Basado en Daniel R. Denison, Corporate Culture and
+Organizational Effectiveness (Nueva York: Wiley, 1990), 11–
+15; Daniel R. Denison y Aneil K. Mishra, “Toward a Theory
+of Organizational Culture and Effectiveness”, Organization
+Science 6, núm. 2 (marzo–abril de 1995), 204–223; R.
+Hooijberg y F. Petrock, “On Cultural Change: Using the
+Competing Values Framework to Help Leaders Execute a
+Transformational Strategy”, Human Resource Management 32
+(1993), 29–50; y R. E. Quinn, Beyond Rational Management:
+Mastering the Paradoxes and Competing Demands of High
+Performance (San Francisco: Jossey-Bass, 1988).
+32. Moffett, “InBev’s Chief Built Competitive Culture”.
+33. Janet Wiscombe, “SAS”, Workforce Management (octubre
+de 2010), 36–38; y “100 Best Companies to Work For 2011:
+SAS”, Fortune, http://money.cnn.com/magazines/fortune/
+best-companies/2011/snapshots/1.html (consultado el 12 de
+septiembre de 2011).
+34. Rekha Balu, “Pacific Edge Projects Itself”, Fast Company
+(octubre de 2000), 371–381.
+35. Bernard Arogyaswamy y Charles M. Byles, “Organizational
+Culture: Internal and External Fits”, Journal of Management
+13 (1987), 647–659.
+36. Paul R. Lawrence y Jay W. Lorsch, Organization and
+Environment (Homewood, IL: Irwin, 1969).
+37. Scott Kirsner, “Designed for Innovation”, Fast Company
+(noviembre de 1998), 54, 56.
+38. Chatman y Cha, “Leading by Leveraging Culture”; y Jeff
+Rosenthal y Mary Ann Masarech, “High-Performance
+Cultures: How Values Can Drive Business Results”, Journal of
+Organizational Excellence (primavera 2003), 3–18.
+39. Ghobadian y O’Regan, “The Link between Culture, Strategy
+and Performance”; G. G. Gordon y N. DiTomaso, “Predicting
+Corporate Performance from Organizational Culture”,
+Journal of Management Studies 29, núm. 6 (1992), 783–798; y
+G. A. Marcoulides y R. H. Heck, “Organizational Culture and
+Performance: Proposing and Testing a Model”, Organization
+Science 4 (1993), 209–225.
+40. John P. Kotter y James L. Heskett, Corporate Culture and
+Performance (Nueva York: The Free Press, 1992); y Kee,
+“Corporate Culture Makes a Fiscal Difference”.
+41. Tressie Wright Muldrow, Timothy Buckley y Brigitte W. Schay,
+“Creating High-Performance Organizations in the Public
+Sector”, Human Resource Management 41, núm. 3 (otoño de
+2002), 341–354.
+42. Liz Robbins, “Embattled BP Chief Takes In Yacht Race”, The
+New York Times, 20 de junio de 2010, A20; Sarah Lyall, “In
+BP’s Record, A History of Boldness and Blunders”, The New
+York Times, 13 de julio de 2010, A1; y Guy Chazan, “BP’s
+Safety Drive Faces Rough Road”, The Wall Street Journal, 1
+de febrero de 2011, A1.
+
+Capítulo 10: Cultura organizacional y valores éticos 425
+43. Kotter y Heskett, Corporate Culture and Performance.
+44. “Core Value: Teamwork”, fragmento en Leigh Buchanan,
+“2011 Top Small Company Workplaces: Core Values”, Inc.
+(junio de 2011), 60–74; y “Our Story”, sitio web de Menlo
+Innovations, http://www.menloinnovations.com/our-story/
+history y http://www.menloinnovations.com/our-story/culture
+(consultado el 12 de septiembre de 2011).
+45. Robert W. Clement, “Just How Unethical Is American
+Business?” Business Horizons 49 (2006), 313–327.
+46. David Carr, “Troubles That Money Can’t Dispel”, The New
+York Times, 18 de julio de 2011, B1.
+47. Mike Esterl, “Executive Decision: In Germany, Scandals
+Tarnish Business Elite”, The Wall Street Journal, 4 de marzo
+de 2008, A1; y Martin Fackler, “The Salaryman Accuses”, The
+New York Times, 7 de junio de 2008, C1.
+48. Gordon F. Shea, Practical Ethics (Nueva York: American
+Management Association, 1988); Linda K. Treviño, “Ethical
+Decision Making in Organizations: A Person–Situation
+Interactionist Model”, Academy of Management Review
+11 (1986), 601–617; y Linda Klebe Treviño y Katherine A.
+Nelson, Managing Business Ethics: Straight Talk about How
+to Do It Right, 2da. ed. (Nueva York: John Wiley & Sons Inc.,
+1999).
+49. Esta discusión de las fuentes de la ética individual se
+basa en Susan H. Taft y Judith White, “Ethics Education:
+Using Inductive Reasoning to Develop Individual, Group,
+Organizational, and Global Perspectives”, Journal of
+Management Education 31, núm. 5 (octubre de 2007),
+614–646.
+50. James B. Stewart, “Bribery, But Nobody Was Charged”, The
+New York Times, 25 de junio de 2011, B1.
+51. Dawn-Marie Driscoll, “Don’t Confuse Legal and Ethical
+Standards”, Business Ethics (julio–agosto de 1996), 44.
+52. LaRue Tone Hosmer, The Ethics of Management, 2da. ed.
+(Homewood, IL: Irwin, 1991).
+53. Brian Griffiths, “Markets Can’t Be Improved by Rules, Only
+by Personal Example”, The Times, 9 de abril de 2009, 30.
+54. Algunos de estos incidentes están en Hosmer, The Ethics of
+Management.
+55. Linda K. Treviño y Katherine A. Nelson, Managing Business
+Ethics: Straight Talk about How to Do It Right (Nueva York:
+John Wiley & Sons, Inc., 1995), 4.
+56. N. Craig Smith, “Corporate Social Responsibility: Whether or
+How?” California Management Review 45, núm. 4 (verano
+de 2003), 52–76; y Eugene W. Szwajkowski, “The Myths and
+Realities of Research on Organizational Misconduct”, en
+James E. Post, ed., Research in Corporate Social Performance
+and Policy, vol. 9 (Greenwich, CT: JAI Press, 1986), 103–122.
+57. Reportado en Beckey Bright, “How More Companies Are
+Embracing Social Responsibility as Good Business”, The Wall
+Street Journal, 10 de marzo de 2008, R3.
+58. Sarah E. Needleman, “The Latest Office Perk: Getting Paid to
+Volunteer”, The Wall Street Journal, 29 de abril de 2008, D1;
+“Habitat for Humanity”, sitio web de Whirlpool Corporation,
+http://www.whirlpoolcorp.com/responsibility/building_
+communities/habitat_for_humanity.aspx (consultado el 13 de
+septiembre de 2011); Bruce Horovitz, “Pepsi Is Dropping Out
+of Schools Worldwide by 2012”, USA Today (16 de marzo de
+2011), http://www.usatoday.com/money/industries/food/2010-
+03-16-pepsicutsschoolsoda_N.htm (consultado el 13 de
+septiembre de 2011); Kate O’Sullivan, “Virtue Rewarded”,
+CFO (octubre de 2006), 46–52.
+
+59. Michael E. Porter y Mark R. Kramer, “Creating Shared
+Value: How to Reinvent Capitalism—and Unleash a Wave of
+Innovation and Growth”, Harvard Business Review (enero–
+febrero de 2011), 62–77.
+60. Ibid.
+61. Geoffrey B. Sprinkle y Laureen A. Maines, “The Benefits and
+Costs of Corporate Social Responsibility”, Business Horizons
+53 (2010), 445–453; O’Sullivan, “Virtue Rewarded”; Bright,
+“How More Companies Are Embracing Social Responsibility
+as Good Business”; y Oliver Falck y Stephan Heblich,
+“Corporate Social Responsibility: Doing Well By Doing
+Good”, Business Horizons 50 (2007), 247–254.
+62. Encuesta de Sustainability Advisory Group “What Regional
+Leaders in the Middle East Think About Corporate Social
+Responsibility”, reportada en “75 Percent of Business Leaders
+Believe That CSR Grows Business”, Al Bawaba, 31 de mayo
+de 2010.
+63. Estudio publicado en Andreas B. Eisingerich y Gunjan
+Bhardwaj, “Does Social Responsibility Protect the Company
+Name?” National Post, 31 de mayo de 2011, FP7.
+64. Philipp Schreck, “Reviewing the Business Case for Corporate
+Social Responsibility: New Evidence and Analysis”, Journal
+of Business Ethics (octubre de 2011), 167–188; Curtis C.
+Verschoor y Elizabeth A. Murphy, “The Financial Performance
+of Large U.S. Firms and Those with Global Prominence: How
+Do the Best Corporate Citizens Rate?” Business and Society
+Review 107, núm. 2 (otoño de 2002), 371–381; Homer H.
+Johnson, “Does It Pay to Be Good?
+Social Responsibility and Financial Performance”, Business
+Horizons (noviembre–diciembre de 2003), 34–40; Quentin R.
+Skrabec, “Playing By the Rules: Why Ethics Are Profitable”,
+Business Horizons (septiembre–octubre de 2003), 15–18;
+Marc Gunther, “Tree Huggers, Soy Lovers, and Profits”,
+Fortune (23 de junio de 2003), 98–104; y Dale Kurschner,
+“5 Ways Ethical Business Creates Fatter Profits”, Business
+Ethics (marzo–abril de 1996), 20–23. Ver también los estudios
+reportados en Lori Ioannou, “Corporate America’s Social
+Conscience”, Fortune, sección especial de publicidad (26 de
+mayo de 2003), S1–S10.
+65. Verschoor y Murphy, “The Financial Performance of Large
+U.S. Firms”.
+66. Phred Dvorak, “Theory & Practice: Finding the Best Measure
+of ‘Corporate Citizenship’”, The Wall Street Journal, 2 de julio
+de 2007, B3; y Gretchen Morgenson, “Shares of Corporate
+Nice Guys Can Finish First”, The New York Times, 27 de abril
+de 2003, sección 3, 1.
+67. Sprinkle y Maines, “The Benefits and Costs of Corporate
+Social Responsibility”; y Daniel W. Greening y Daniel B.
+Turban, “Corporate Social Performance as a Competitive
+Advantage in Attracting a Quality Workforce”, Business and
+Society 39, núm. 3 (septiembre de 2000), 254.
+68. Needleman, “The Latest Office Perk”.
+69. Christopher Marquis, “Doing Well and Doing Good”, The
+New York Times, 13 de julio de 2003, sección 3, 2; y Joseph
+Pereira, “Career Journal: Doing Good and Doing Well at
+Timberland”, The Wall Street Journal, 9 de septiembre de
+2003, B1 .
+70. Reportado en Needleman, “The Latest Office Perk”.
+71. “The Socially Correct Corporate Business”, fragmento en
+Leslie Holstrom y Simon Brady, “The Changing Face of
+Global Business”, Fortune, sección especial de publicidad (24
+de julio de 2000), S1–S38.
+
+426 Parte 5: Administración de procesos dinámicos
+72. Remi Trudel y June Cotte, “Does Being Ethical Pay?” The Wall
+Street Journal, 12 de mayo de 2008, R4.
+73. Corporate Ethics: A Prime Business Asset (Nueva York: The
+Business Round Table, febrero de 1988).
+74. Treviño y Nelson, Managing Business Ethics, 201.
+75. Gary R. Weaver, Linda Klebe Treviño y Bradley Agle,
+“‘Somebody I Look Up To’: Ethical Role Models in
+Organizations”, Organizational Dynamics 34, núm. 4
+(2005), 313–330; Andrew W. Singer, “The Ultimate Ethics
+Test”, Across the Board (marzo de 1992), 19–22; Ronald
+B. Morgan, “Self and Co-Worker Perceptions of Ethics and
+Their Relationships to Leadership and Salary”, Academy of
+Management Journal 36, núm. 1 (febrero de 1993), 200–214;
+y Joseph L. Badaracco Jr., y Allen P. Webb, “Business Ethics: A
+View from the Trenches”, California Management Review 37,
+núm. 2 (invierno de 1995), 8–28.
+76. Esta definición se basa en Robert J. House, Andre Delbecq y
+Toon W. Taris, “Value Based Leadership: An Integrated Theory
+and an Empirical Test” (documento de trabajo).
+77. Stephanie Armour, “CEO Helps People Keep Their Homes;
+That’s CitiMortgage Chief’s Personal Goal”, USA Today, 27
+de abril de 2009, B4; Ruth Simon, “Citi to Allow Jobless to
+Pay Less on Mortgages for a Time”, The Wall Street Journal
+Europe, 4 de marzo de 2009, 17; y Sanjiv Das, “Viewpoint:
+Early Intervention Can Stem Foreclosures”, American Banker
+(10 de diciembre de 2008), 11.
+78. Como se cita en Arkadi Kuhlmann, “Culture-Driven
+Leadership”, Ivey Business Journal (marzo-abril de 2010),
+
+http://www.iveybusinessjournal.com/topics/leadership/culture-
+driven-leadership (consultado el 13 de septiembre de 2011).
+
+79. Thomas J. Peters y Robert H. Waterman, Jr., In Search of
+Excellence (Nueva York: Harper & Row, 1982); y Kuhlmann,
+“Culture-Driven Leadership”.
+80. Carol Hymowitz, “CEOs Must Work Hard to Maintain Faith
+in the Corner Office” (columna In the Lead), The Wall Street
+Journal, 9 de julio de 2002, B1.
+81. Basado en Weaver et al., “‘Somebody I Look Up To’”.
+82. Alan Yuspeh, “Do the Right Thing”, CIO (1 de agosto de
+2000), 56–58.
+83. Treviño y Nelson, Managing Business Ethics, 212.
+84. Beverly Geber, “The Right and Wrong of Ethics Offices”,
+Training (octubre de 1995), 102–118.
+85. Janet P. Near y Marcia P. Miceli, “Effective Whistle-Blowing”,
+Academy of Management Review 20, núm. 3 (1995),
+679–708.
+86. Jene G. James, “Whistle-Blowing: Its Moral Justification”, en
+Peter Madsen y Jay M. Shafritz, eds., Essentials of Business
+Ethics (Nueva York: Meridian Books, 1990), 160–190; y
+Janet P. Near, Terry Morehead Dworkin y Marcia P. Miceli,
+“Explaining the Whistle-Blowing Process: Suggestions from
+Power Theory and Justice Theory”, Organization Science 4
+(1993), 393–411.
+87. Christine Seib y Alexandra Frean, “Lehman Whistleblower
+Lost Job Month After Speaking Out”, The Times, 17 de marzo
+de 2010.
+88. “Setting the Standard”, sitio web de Lockheed Martin,
+http://www.lockheedmartin.com/exeth/html/code/code.html
+(consultado el 7 de agosto de 2001).
+89. Katharina Bart, “UBS Lays Out Employee Ethics Code”, The
+Wall Street Journal (12 de enero de 2010), http://online.wsj.
+com/article/SB1000142405274870458650457465390186505
+0062.html?KEYWORDS=%22Ubs+lays+out+employee+ethics
++code%22 (15 de enero de 2010).
+
+90. Carl Anderson, “Values-Based Management”, Academy of
+Management Executive 11, núm. 4 (1997), 25–46.
+91. Ronald E. Berenbeim, Corporate Ethics Practices (Nueva
+York: The Conference Board, 1992).
+92. James Weber, “Institutionalizing Ethics into Business
+Organizations: A Model and Research Agenda”, Business
+Ethics Quarterly 3 (1993), 419–436.
+93. Mark Henricks, “Ethics in Action”, Management Review
+(enero de 1995), 53–55; Dorothy Marcic, Management and
+the Wisdom of Love (San Francisco: Jossey-Bass, 1997); y
+Beverly Geber, “The Right and Wrong of Ethics Offices”,
+Training (octubre de 1995), 102–118.
+94. Susan J. Harrington, “What Corporate America Is Teaching
+about Ethics”, Academy of Management Executive 5 (1991),
+21–30.
+95. Jerry G. Kreuze, Zahida Luqmani y Mushtaq Luqmani,
+“Shades of Gray”, Internal Auditor (abril de 2001), 48.
+96. David Scheer, “For Your Eyes Only; Europe’s New High-Tech
+Role: Playing Privacy Cop to the World”, The Wall Street
+Journal (10 de octubre de 2003), A1, A16; John W. Miller,
+“Yahoo Cookie Plan in Place”, The Wall Street Journal (19 de
+marzo de 2011), http://online.wsj.com/article/SB10001424052
+748703512404576208700813815570.html (consultado el 13
+de septiembre de 2011); y Jennifer Valentino-Devries y Emily
+Steel, “‘Cookies’ Cause Bitter Backlash”, The Wall Street
+Journal, septiembre de 2010, B1.
+97. S. C. Schneider, “National vs. Corporate Culture: Implications
+for Human Resource Management”, Human Resource
+Management (verano de 1988), 239; y Terence Jackson,
+“Cultural Values and Management Ethics: A 10-Nation
+Study”, Human Relations 54, núm. 10 (2001), 1267–1302.
+98. Vijay Govindarajan, reportado en Gail Dutton, “Building a
+Global Brain”, Management Review (mayo de 1999), 34–38.
+99. K. Matthew Gilley, Christopher J. Robertson y Tim C. Mazur,
+“The Bottom-Line Benefits of Ethics Code Commitment”,
+Business Horizons 53 (2010), 31–37.
+100. Homer H. Johnson, “Corporate Social Audits—This Time
+Around”, Business Horizons (mayo–junio de 2001), 29–36.
+101. Cassandra Kegler, “Holding Herself Accountable”, Working
+Woman (mayo de 2001), 13; y Louisa Wah, “Treading the
+Sacred Ground”, Management Review (julio–agosto de 1998),
+18–22.
+102. David S. Hilzenrath, “Justice Department, SEC Cracking
+Down on U.S. Companies Engaging in Bribery Abroad”,
+The Washington Post (21 de marzo de 2011), http://www.
+
+washingtonpost.com/business/economy/justice-department-
+sec-cracking-down-on-us-companies-engaging-in-bribery-
+abroad/2011/03/21/ABMlMXLB_story.html (consultado el 24
+
+de mayo de 2011); Andrew E. Kramer, “Ikea Fires 2 Officials
+in Russia Bribe Case”, The New York Times (16 de febrero
+de 2010), http://www.nytimes.com/2010/02/16/business/
+global/16ikea.html (consultado el 13 de septiembre de 2011);
+y Ellen Byron, “Avon Bribe Investigation Widens”, The Wall
+Street Journal, 5 de mayo de 2011, B1.
+103. Copyright 1996 por Dorothy Marcic. Todos los derechos
+reservados.
+104. Basado en Gary Yukl, “Consolidated Products”, en Leadership
+
+in Organizations, 4a. ed. (Englewood Cliffs, N.J.: Prentice-
+Hall, 1998), 66-67; John M. Champion y John H. James,
+
+“Implementing Strategic Change”, en Critical Incidents in
+Management: Decision and Policy
+Issues, 6a. ed. (Homewood, Ill.: Irwin, 1989), 138-140; y
+William C. Symonds, “Where Paternalism Equals Good
+
+Capítulo 10: Cultura organizacional y valores éticos 427
+Business”, BusinesWeek (20 de julio de 1998), 16E4,
+16E6.105.
+Este caso fue preparado por Roland B. Cousins, LaGrange
+College y Linda E. Benitz, InterCel, Inc., como base para
+una discusión en el salón de clases y no para ilustrar un
+manejo eficaz o ineficaz de una situación administrativa. Los
+nombres de la empresa y de los individuos y la ubicación
+involucrada se han cambiado para preservar el anonimato.
+La situación reportada es de hechos. Los autores le agradecen
+a Anne T. Lawrence su ayuda en el desarrollo de este caso.
+Los miembros de facultades pertenecientes a organizaciones
+
+sin fines de lucro pueden reproducir este caso y distribuirlo
+entre sus alumnos sin cargo o permiso por escrito. Los otros
+derechos están reservados para el autor y la North American
+Case Research Association (NACRA). Copyright © 1997 by
+the Case Research Journal and Roland B. Cousins and Linda
+E. Benitz.
+106. Adaptado por Dorothy Marcic de Allayne Barrilleaux
+Pizzolatto’s “Ethical Management: An Exercise in
+Understanding Its Power”, Journal of Management Education
+17, núm. 1 (February 1993), 107–109.
